@@ -1,4 +1,37 @@
+<?php
+$message = ""; // Initialize an empty variable to hold the message
 
+if(isset($_POST['submit'])) {
+    // Get form data
+    $name = $_POST['name'];
+    $email = $_POST['email'];
+    $phone = $_POST['phone']; // Added phone field
+    $message = $_POST['message'];
+
+    // Set up email headers
+    $to = 'info@blizztechsolutions.com';
+    $subject = 'Quotation Form';
+    $headers = "From: $name <$email>\r\n";
+    $headers .= "Reply-To: $email\r\n";
+    $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+
+    // Compose the email body
+    $body = "<html><body>";
+    $body .= "<h2>QUERY FORM</h2>";
+    $body .= "<p><strong>Name:</strong> $name</p>";
+    $body .= "<p><strong>Email:</strong> $email</p>";
+    $body .= "<p><strong>Phone:</strong> $phone</p>"; // Added phone field
+    $body .= "<p><strong>Message:</strong> $message</p>";
+    $body .= "</body></html>";
+
+    // Send email
+    if(mail($to, $subject, $body, $headers)) {
+        $message = "Thank you for contacting us"; // Update the message variable
+    } else {
+        $message = "Failed to send email. Please try again later.";
+    }
+}
+?>
 <div id="footer-parent">
             <!-- Footer -->
 <footer class="text-center text-lg-start">
@@ -20,7 +53,7 @@
       <!-- Right -->
       <div>
         <div class="footer-button">
-        <a href="">Explore More</a>
+        <a class="quote-button" href="javascript:;">Get A Quote</a>
        </div>
         </a>
       </div>
@@ -120,12 +153,41 @@
  <div class="right-footer">
     <p>
         ©
-        <a href="">BlizzTech</a>
+        <a href="">BlizzTech Solutions</a>
         .All rights Reserved 2024
     </p>
  </div>
 </div>
     </div>
+    <div id="quoteModal" class="modal">
+  <div class="modal-content">
+    <span class="close">&times;</span>
+    <div class="col-lg-12">
+    <div class="modal-lines text-center">
+      <h2 class="modal-heading">Request an <br> <span>Appointment</span></h2>
+      <p class="modal-subheading">Signup and get free consultation</p>
+    </div>
+    <form method="post" action="">
+    <div class="mb-3">
+        <input type="text" class="form-control" name="name" placeholder="Name" required>
+    </div>
+    <div class="mb-3">
+        <input type="email" class="form-control" name="email" placeholder="Email" required>
+    </div>
+    <div class="mb-3">
+        <input type="text" class="form-control" name="phone" placeholder="Phone" required> <!-- Added phone field -->
+    </div>
+    <div class="mb-3">
+        <textarea class="form-control" name="message" rows="3" placeholder="Message"></textarea>
+    </div>
+    <input class="btn btn-primary" type="submit" name="submit" value="Submit">
+</form>
+
+
+<div class="thankyoumessage"> <?php echo $message; ?></div>
+    </div>
+  </div>
+</div>
 
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
     <script src="./script.js"></script>
@@ -187,4 +249,53 @@
 
 
     </script>
+     <script>
+
+var modal = document.getElementById("quoteModal");
+
+
+var buttons = document.getElementsByClassName("quote-button");
+
+
+var span = document.getElementsByClassName("close")[0];
+
+
+function openModal() {
+  modal.style.display = "block";
+}
+
+
+function closeModal() {
+  modal.style.display = "none";
+}
+
+
+for (var i = 0; i < buttons.length; i++) {
+  buttons[i].onclick = openModal;
+}
+
+
+span.onclick = closeModal;
+
+
+window.onclick = function(event) {
+  if (event.target == modal) {
+    closeModal();
+  }
+}
+
+  $(".phone-country").intlTelInput({
+    geoIpLookup: function(s) {
+      $.get("https://ipinfo.io", function() {}, "jsonp").always(function(i) {
+        s(i && i.country ? i.country : ""), (e = i.ip);
+
+        
+
+      });
+    },
+    initialCountry: "auto",
+    nationalMode: !0,
+    separateDialCode: !0,
+  });
+</script>
     <script src="../css/style.css"></script>

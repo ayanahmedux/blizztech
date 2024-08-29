@@ -1,3 +1,16 @@
+::-webkit-scrollbar {
+    width: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #fff; 
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #27D6FC; 
+  }
+  div#profitable-pricing ul.list-unstyled {
+    height: 120px;
+    overflow-x: auto;
+}
 body{
     background-color: #030406 !important;
 }
@@ -23,6 +36,7 @@ nav.navbar.navbar-expand-lg.bg-transparent1.fixed-top {
 }
 .navbar .nav-link {
     color: #fff; /* White text color */
+    text-transform: capitalize;
 }
 
 .navbar .nav-link:hover {
@@ -64,18 +78,13 @@ nav {
 .nav-links li {
     position: relative;
 }
-.hide-nav {
-    top: -150px;
-  }
 
 /*Styling Buttons*/
 .hire-button {
     background-color: transparent;
     border: 1.5px solid #27D6FC; /* Green border for button */
     border-radius: 2em;
-    padding: 0.6rem 0.8rem;
-    margin-left: 2vw;
-    font-size: 1rem;
+    padding: 10px 24px;
     cursor: pointer;
     color: #f2f5f7;
 }
@@ -225,7 +234,8 @@ div#hero-section .heading-hero h1 {
     color: white;
     font-size: 60px;
     line-height: 1.41;
-    font-weight: 600
+    font-weight: 600;
+    text-transform: capitalize;
 }
 div#hero-section .heading-hero h1 span {
     color: #27D6FC;
@@ -768,10 +778,11 @@ div#profitable-pricing {
     margin-bottom: 10px;
 }
 ul.list-unstyled li {
-    font-size: 18px;
+    font-size: 15px;
     line-height: 1.42;
     color: white;
-    font-weight: 700;
+    font-weight: 600;
+    padding-right: 20px;
     text-transform: capitalize;
     font-family: 'Epilogue';
 }
@@ -980,7 +991,7 @@ div#contact-sec-1 {
     font-weight: 800;
 }
 div#contact-us-section h5 {
-    color: white;
+    color: #27d6fc;
     font-weight: 600;
     font-size: 20px;
 }
@@ -1024,9 +1035,81 @@ div#contact-us-section input.btn.btn-primary:hover{
     border: 1.5px solid #27D6FC;
     transition: all ease-in-out 350ms;
 }
+.dropdown-toggle::before {
+    display: inline-block;
+    margin-left: .255em;
+    vertical-align: .255em;
+    content: "";
+    border-top: .3em solid;
+    border-right: .3em solid transparent;
+    border-bottom: 0;
+    border-left: .3em solid transparent;
+    position: absolute;
+    left: 80px;
+    top: 18px;
+    color: #27d6fc;
+}
+.thankyoumessage {
+    color: white;
+}   
+ul.dropdown-menu.show {
+    width: 900px;
+    background: white;
+    padding: 20px 10px; 
+}
+ul.dropdown-menu.show ul {
+    padding-left: 0px;
+}
+ul.dropdown-menu.show ul li {
+    list-style: none;
+}
+ul.dropdown-menu.show ul li a {
+    color: black;
+    font-size: 14px;
+    line-height: 28px;
+ text-decoration: none;
+}
+ul.dropdown-menu.show h6 {
+    color: #27d6fc;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+ul.dropdown-menu.show ul li {
+    color: black;
+    text-transform: capitalize;
+    list-style: none;
+}
+.services-image img {
+    width: 100%;
+    animation: updown 2s linear infinite alternate;
+}
+div#seo-section {
+    padding: 60px 0px;
+}
+div#seo-section h2 {
+    color: white;
+    text-transform: capitalize;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+div#seo-section p{
+    color: white;
+}
+div#seo-section .col-lg-6.seo-sec-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+@keyframes updown{
+    0% {
+        transform: translateY(25px);
+    }
+    100% {
+        transform: translateY(1px);
+    }
+}
 
-
-    
 @media only screen and (max-width:1024px) {
     div#contact-sec-1 {
         padding: 190px 0px 90px 0px;
@@ -1235,4 +1318,60 @@ div#contact-us-section input.btn.btn-primary:hover{
     ul.navbar-nav {
         gap: 0px;
     }
+}
+.navbar-nav .nav-link.show {
+    color: rgb(226 224 224) ! IMPORTANT;
+}
+div#quoteModal {
+    background: #000000b8;
+}
+
+.modal-content {
+    width: 40%;
+    margin: 0 auto;
+    top: 86px;
+    padding: 30px 40px;
+}
+h2.modal-heading span{
+    color: #27d5fc;
+
+}
+div#quoteModal input.btn.btn-primary {
+    background-color: #27d6fc;
+    border: 1.5px solid #27D6FC;
+    border-radius: 2em;
+    padding: 10px 24px;
+    cursor: pointer;
+    color: white;
+    width: 100%;
+}
+div#quoteModal input.btn.btn-primary:hover{
+color: black;
+background-color: white;
+border: 1.5px solid #27D6FC;
+transition: all ease-in-out 350ms
+}
+div#quoteModal input.form-control, div#quoteModal textarea {
+    border: 1px solid black;
+    background: white;
+    color: black;
+}
+div#quoteModal ::placeholder {
+    color: #000;
+}
+span.close {
+    background: black;
+    display: table;
+    margin: 0 auto;
+    color: white;
+    font-size: 35px;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    line-height: 54px;
+    border-radius: 50px 0px 0px 50px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    cursor: pointer;
 }

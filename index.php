@@ -13,7 +13,7 @@
                 </span> Platforms</h1>
         </div>
         <div class="lets-talk-button">
-            <a href="">
+            <a href="javascript:;" class="quote-button">
                 <i class="bi bi-chat-fill"></i>
                 <span>Let’s Talk</span></a>
         </div>
@@ -73,7 +73,7 @@
     <div id="analytics-section">
         <div class="container">
             <div class="row">
-                <div class="col-xxl-4 col-lg-6 col-md-12">
+                <div class="col-lg-4">
                     <div class="analytics-container">
                         <div class="card-heading">
                             Data
@@ -83,13 +83,13 @@
                             <h4>Data Analytics</h4>
                         </div>
                         <p>We don’t just work with concrete and steel. We are Approachable, with even</p>
-                        <a href="" class="analytics-button">
+                        <a href="javascript:;" class="analytics-button quote-button">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-xxl-4 col-lg-6 col-md-12">
+                <div class="col-lg-4">
                     <div class="analytics-container">
                         <div class="card-heading">
                             web
@@ -99,13 +99,13 @@
                             <h4>web/app development</h4>
                         </div>
                         <p>We don’t just work with concrete and steel. We are Approachable, with even</p>
-                        <a href="" class="analytics-button">
+                        <a href="javascript:;" class="analytics-button quote-button">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
                     </div>
                 </div>
-                <div class="col-xxl-4 col-lg-6 col-md-12 ">
+                <div class="col-lg-4 ">
                     <div class="analytics-container">
                         <div class="card-heading">
                             boost
@@ -116,7 +116,7 @@
                                 easily digital boost</h4>
                         </div>
                         <p>We don’t just work with concrete and steel. We are Approachable, with even</p>
-                        <a href="" class="analytics-button">
+                        <a href="javascript:;" class="analytics-button quote-button">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -253,258 +253,9 @@
             </div>
         </div>
     </div>
-    <div id="our-projects">
-        <div class="container">
-            <div class="projects-heading text-center">
-                <h5>
-                    OVER 150.000+ CLIENTS
-                </h5>
-                <h2>Our Projects</h2>
-            </div>
-            <!-- Tab links -->
-            <div class="tab">
-                <button class="tablinks " id="defaultOpen" onclick="openCity(event, 'London')">UI/UX design</button>
-                <button class="tablinks" onclick="openCity(event, 'Paris')">development</button>
-                <button class="tablinks" onclick="openCity(event, 'Tokyo')">branding</button>
-            </div>
+    <?php include_once("project.php") ?>
 
-            <!-- Tab content -->
-            <div id="London" class="tabcontent">
-                <div class="nav-tabs">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image">
-                                        <img src="assets/images/p2-img-1-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image  two">
-                                        <img src="assets/images/p2-img-2-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row nav-row-2">
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image three">
-                                        <img src="assets/images/p2-img-3-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image  four">
-                                        <img src="assets/images/p2-img-4.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div id="Paris" class="tabcontent">
-                <div class="nav-tabs">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image">
-                                        <img src="assets/images/p2-img-1-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image  two">
-                                        <img src="assets/images/p2-img-2-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row nav-row-2">
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image three">
-                                        <img src="assets/images/p2-img-3-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image  four">
-                                        <img src="assets/images/p2-img-4.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div id="Tokyo" class="tabcontent">
-                <div class="nav-tabs">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image">
-                                        <img src="assets/images/p2-img-1-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image  two">
-                                        <img src="assets/images/p2-img-2-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="row nav-row-2">
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image three">
-                                        <img src="assets/images/p2-img-3-1.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-6">
-                                <div class="nav-image-parent">
-                                    <div class="nav-image  four">
-                                        <img src="assets/images/p2-img-4.webp" alt="">
-                                    </div>
-                                    <div class="nav-image-content">
-                                        <div class="left">
-                                            <h6>Generation of Wealth</h6>
-                                            <h4>Generation of Wealth</h4>
-                                        </div>
-                                        <a href="" class="button-parent">
-                                            <i class="bi bi-arrow-right"></i>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="nav-paragraph text-center">
-            <p class="">
-                We don’t just work with concrete and steel. We’ve collected the of creative
-                <br>
-                websites, web design concepts and ideas work and web
-            </p>
-            <a href="" class="nav-explore-button "><span>explore more</span></a>
-        </div>
-    </div>
-    <div id="profitable-pricing">
+    <!-- <div id="profitable-pricing">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -532,6 +283,14 @@
                                         </div>
                                     </div>
                                     <ul class="list-unstyled">
+                                        <li><i class="bi bi-check-lg"></i> Guaranteed Quality Control</li>
+                                        <li><i class="bi bi-check-lg"></i> Top Quality Service</li>
+                                        <li><i class="bi bi-check-lg"></i> Best Experts At Your Lease</li>
+                                        <li><i class="bi bi-check-lg"></i> 7 Days Free</li>
+                                        <li><i class="bi bi-check-lg"></i> Guaranteed Quality Control</li>
+                                        <li><i class="bi bi-check-lg"></i> Top Quality Service</li>
+                                        <li><i class="bi bi-check-lg"></i> Best Experts At Your Lease</li>
+                                        <li><i class="bi bi-check-lg"></i> 7 Days Free</li>
                                         <li><i class="bi bi-check-lg"></i> Guaranteed Quality Control</li>
                                         <li><i class="bi bi-check-lg"></i> Top Quality Service</li>
                                         <li><i class="bi bi-check-lg"></i> Best Experts At Your Lease</li>
@@ -596,7 +355,7 @@
             </div>
         </div>
 
-    </div>
+    </div> -->
     <div id="testimonial-section">
         <div class="testi-area">
             <div class="container">
