@@ -149,12 +149,12 @@
                 </div>
             </div>
             <div class="row about-row-2">
-                <div class="col-xxl-6 col-lg-12">
+                <div class="col-xxl-6 col-md-6">
                     <div class="image-wrap-back">
                         <img src="assets/images/a2-img-1-1.webp" alt="">
                     </div>
                 </div>
-                <div class="col-xxl-6 col-lg-12 sec-23">
+                <div class="col-xxl-6 col-md-6">
                     <div class="accordion accordion-flush" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
