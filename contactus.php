@@ -42,7 +42,7 @@ if(isset($_POST['submit'])) {
         <div class="row">
             <div class="col-lg-12">
                 <div class="contact-heading">
-                    <h1>Contact Us</h1>
+                    <h1>Contact</h1>
                 </div>
             </div>
         </div>
