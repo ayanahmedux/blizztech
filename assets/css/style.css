@@ -966,7 +966,7 @@ section.sec-1-footer {
 /* contact */
 div#contact-sec-1 {
     background-image: url(../images/breadcrumb-img-1.webp);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     padding: 300px 0px 90px 0px;
     filter: brightness(0.7);
@@ -1006,10 +1006,32 @@ div#contact-us-section h1 {
     font-weight: 800;
     text-transform: capitalize;
 }
+div#contact-us-section p {
+    color: #27d6fc;
+    font-size: 18px;
+    font-weight: 400;
+}
+div#contact-us-section input.btn.btn-primary {
+    background-color: transparent;
+    border: 1.5px solid #27D6FC;
+    border-radius: 2em;
+    padding: 10px 25px;
+    color: #f2f5f7;
+}
+div#contact-us-section input.btn.btn-primary:hover{
+    color: white;
+    background-color: #27D6FC;
+    border: 1.5px solid #27D6FC;
+    transition: all ease-in-out 350ms;
+}
 
 
     
 @media only screen and (max-width:1024px) {
+    div#contact-sec-1 {
+        padding: 190px 0px 90px 0px;
+      
+    }
     .image-background {
         width: 510px;
         margin-top: 310px;
@@ -1066,7 +1088,21 @@ div#contact-us-section h1 {
         padding: 80px 110px;
 
     }
+    .contact-image-wrap img {
+        width: 100%;
+    }
     
+}
+@media only screen and (max-width:800px) {
+    nav.navbar.navbar-expand-lg.bg-transparent1.fixed-top {
+        background:#ccc !important;
+    }
+    .navbar .nav-link {
+        color: black;
+    }
+    ul.navbar-nav {
+        gap: 0px;
+    }
 }
 @media only  screen and (max-width:480px) {
     .image-wrap-back img {
