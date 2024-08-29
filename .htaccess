@@ -13,4 +13,8 @@ Header always set Content-Security-Policy "upgrade-insecure-requests;"
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule ^(.*)$ $1.php [L]
+<<<<<<< HEAD:htaccess
 </IfModule>
+=======
+</IfModule>
+>>>>>>> 1065cd941549c5258d31182a9f1e9617f07cc432:.htaccess
