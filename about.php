@@ -14,7 +14,7 @@
                 </div>
                 <div class="col-md-4">
                     <div class="about-heading-image">
-                        <img src="assets/images/a2-il-1.webp" alt="">
+                        <img src="https://www.blizztechsolutions.com/assets/images/a2-il-1.webp" alt="">
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -29,7 +29,7 @@
             <div class="row about-row-2">
                 <div class="col-xxl-6 col-lg-12">
                     <div class="image-wrap-back">
-                        <img src="assets/images/a2-img-1-1.webp" alt="">
+                        <img src="https://www.blizztechsolutions.com/assets/images/a2-img-1-1.webp" alt="">
                     </div>
                 </div>
                 <div class="col-xxl-6 col-lg-12 sec-23">
@@ -39,7 +39,7 @@
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                     <div class="about-accord">
-                                        <span class="about-number">15</span> <img src="assets/images/a2-icon-1.webp"
+                                        <span class="about-number">15</span> <img src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp"
                                             alt=""> <span>year of experience</span>
                                     </div>
                                 </button>
@@ -59,7 +59,7 @@
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     <div class="about-accord">
                                         <span class="about-number">300</span> <img
-                                            src="assets/images/a2-icon-1.webp" alt=""> <span>Project Complete</span>
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Project Complete</span>
                                     </div>
                                 </button>
                             </h2>
@@ -78,7 +78,7 @@
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     <div class="about-accord">
                                         <span class="about-number">500</span> <img
-                                            src="assets/images/a2-icon-1.webp" alt=""> <span>Happy Customers</span>
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Happy Customers</span>
                                     </div>
                                 </button>
                             </h2>
@@ -103,7 +103,7 @@
                     <div>
                         <div class="slide-1">
                             <div class="icon-world">
-                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                                <img src="https://www.blizztechsolutions.com/assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
                                 <span>What People Say</span>
@@ -112,7 +112,7 @@
                                     specimen Book. It has survived not only Five centuries. </h3>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
-                                        <img src="assets/images/t1-img-1.webp" alt="">
+                                        <img src="https://www.blizztechsolutions.com/assets/images/t1-img-1.webp" alt="">
                                     </div>
                                     <div class="person-wrap-2">
                                         <h4>Charli Hapan</h4>
@@ -131,7 +131,7 @@
                     <div>
                         <div class="slide-1">
                             <div class="icon-world">
-                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                                <img src="https://www.blizztechsolutions.com/assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
                                 <span>What People Say</span>
@@ -140,7 +140,7 @@
                                     specimen Book. It has survived not only Five centuries. </h3>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
-                                        <img src="assets/images/t1-img-2.webp" alt="">
+                                        <img src="https://www.blizztechsolutions.com/assets/images/t1-img-2.webp" alt="">
                                     </div>
                                     <div class="person-wrap-2">
                                         <h4>Charli Hapan</h4>
@@ -159,7 +159,7 @@
                     <div>
                         <div class="slide-1">
                             <div class="icon-world">
-                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                                <img src="https://www.blizztechsolutions.com/assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
                                 <span>What People Say</span>
@@ -168,7 +168,7 @@
                                     specimen Book. It has survived not only Five centuries. </h3>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
-                                        <img src="assets/images/t1-img-1.webp" alt="">
+                                        <img src="https://www.blizztechsolutions.com/assets/images/t1-img-1.webp" alt="">
                                     </div>
                                     <div class="person-wrap-2">
                                         <h4>Charli Hapan</h4>
