@@ -63,76 +63,95 @@ if(isset($_POST['submit'])) {
   
     <!-- Section: Links  -->
     <section class="">
-      <div class="container text-center text-md-start mt-5">
+      <div class="container text-center text-md-start mt-5 text-lg-start">
         <!-- Grid row -->
         <div class="row mt-3">
           <!-- Grid column -->
+            <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
+            <!-- Links -->
+            <h6 class="text-uppercase fw-bold mb-4">
+            QUICK LINKS
+            </h6>
+            <p>
+              <a href="#!" class="text-reset">Home</a>
+            </p>
+            <p>
+              <a href="about" class="text-reset">About us </a>
+            </p>
+            <p>
+              <a href="portfolio" class="text-reset">portfolio</a>
+            </p>
+            <p>
+              <a href="contactus" class="text-reset">Contact us</a>
+            </p>
+            
+          </div>
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <!-- Content -->
             <h6 class="text-uppercase fw-bold mb-4">
-              <i class="fas fa-gem me-3"></i>Company name
+              <i class="fas fa-gem me-3"></i>Services
             </h6>
             <p>
-              Here you can use rows and columns to organize your footer content. Lorem ipsum
-              dolor sit amet, consectetur adipisicing elit.
+              <a href="#!" class="text-reset">DIGITAL MARKETING SERVICES</a>
+            </p>
+            <p>
+              <a href="about" class="text-reset">WEBSITE SOLUTION </a>
+            </p>
+            <p>
+              <a href="portfolio" class="text-reset">Mobile Application</a>
+            </p>
+            <p>
+              <a href="contactus" class="text-reset">BRANDING AND MEDIA STRATEGY </a>
+            </p>
+            <p>
+              <a href="contactus" class="text-reset">CONTENT MARKETING </a>
+            </p>
+            <p>
+              <a href="contactus" class="text-reset">GRAPHIC  </a>
+            </p>
+            <p>
+              <a href="contactus" class="text-reset">Video Animation </a>
             </p>
           </div>
           <!-- Grid column -->
   
           <!-- Grid column -->
-          <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-            <!-- Links -->
-            <h6 class="text-uppercase fw-bold mb-4">
-              Products
-            </h6>
-            <p>
-              <a href="#!" class="text-reset">Angular</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">React</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">Vue</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">Laravel</a>
-            </p>
-          </div>
-          <!-- Grid column -->
-  
-          <!-- Grid column -->
-          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
-            <!-- Links -->
-            <h6 class="text-uppercase fw-bold mb-4">
-              Useful links
-            </h6>
-            <p>
-              <a href="#!" class="text-reset">Pricing</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">Settings</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">Orders</a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">Help</a>
-            </p>
-          </div>
+         
           <!-- Grid column -->
   
           <!-- Grid column -->
           <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4">Contact</h6>
-            <p><i class="fas fa-home me-3"></i> New York, NY 10012, US</p>
+            <p><i class="bi bi-house-door-fill me-3"></i></i>913 Essex Blvd, Lewisville,<br> Texas 75056, US</p>
             <p>
-              <i class="fas fa-envelope me-3"></i>
-              info@example.com
+            <i class="bi bi-envelope-fill me-3"></i></i>
+              info@blizztechsolutions.com
             </p>
-            <p><i class="fas fa-phone me-3"></i> + 01 234 567 88</p>
-            <p><i class="fas fa-print me-3"></i> + 01 234 567 89</p>
+            <p><i class="bi bi-telephone-fill me-3"></i> +1 713-922-8987</p>
           </div>
+          <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
+            <!-- Links -->
+            <h6 class="text-uppercase fw-bold mb-4">
+            FOLLOW US 
+            </h6>
+            <p>
+              <a href="#!" class="text-reset"> <i class="bi bi-facebook me-3"></i> Facebook</a>
+            </p>
+            <p>
+              <a href="#!" class="text-reset"><i class="bi bi-instagram me-3"></i> Instagram  </a>
+            </p>
+            <p>
+              <a href="#!" class="text-reset"> <i class="bi bi-linkedin me-3"></i> LinkedIn</a>
+            </p>
+            <p>
+              <a href="#!" class="text-reset"><i class="bi bi-twitter-x me-3"></i> X</a>
+            </p>
+          </div>
+          <!-- Grid column -->
+  
+          <!-- Grid column -->
+        
           <!-- Grid column -->
         </div>
         <!-- Grid row -->

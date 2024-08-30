@@ -6,11 +6,10 @@
 <?php include_once("includes/header.php") ?>
     <div id="hero-section">
         <div class="heading-hero">
-            <h1>We Design <span>
-                    Brands & <br>
-                </span> Websites Plus Exceptional <br> <span>
-                    software
-                </span> Platforms</h1>
+            <h1>From brand identity to<span> 
+           <br> digital dominance, offering IT <br>
+                </span>  solutions that drive <br> 
+                <span>success.</span>  </h1>
         </div>
         <div class="lets-talk-button">
             <a href="javascript:;" class="quote-button">
@@ -76,13 +75,13 @@
                 <div class="col-lg-4">
                     <div class="analytics-container">
                         <div class="card-heading">
-                            Data
+                        Digital 
                         </div>
                         <div class="title-wrap">
                             <div class="item-icon"><i class="bi bi-check2-circle"></i></div>
-                            <h4>Data Analytics</h4>
+                            <h4>Digital Marketing </h4>
                         </div>
-                        <p>We don’t just work with concrete and steel. We are Approachable, with even</p>
+                        <p>we offer a diverse and comprehensive range of highly customizable and affordable internet marketing services. We ensure the delivery of effective online marketing services, as well as customizing offline marketing solutions.</p>
                         <a href="javascript:;" class="analytics-button quote-button">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
@@ -92,13 +91,13 @@
                 <div class="col-lg-4">
                     <div class="analytics-container">
                         <div class="card-heading">
-                            web
+                        Mobile 
                         </div>
                         <div class="title-wrap">
                             <div class="item-icon"><i class="bi bi-gear-wide-connected"></i></div>
-                            <h4>web/app development</h4>
+                            <h4>Mobile Application</h4>
                         </div>
-                        <p>We don’t just work with concrete and steel. We are Approachable, with even</p>
+                        <p>Unlock innovation with bespoke iOS and Android apps that blend performance with user-centric design. From eCommerce solutions to enterprise-grade applications, our development ensures a seamless mobile experience</p>
                         <a href="javascript:;" class="analytics-button quote-button">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
@@ -108,20 +107,95 @@
                 <div class="col-lg-4 ">
                     <div class="analytics-container">
                         <div class="card-heading">
-                            boost
+                        Website 
                         </div>
                         <div class="title-wrap">
                             <div class="item-icon"><i class="bi bi-lightbulb-fill"></i></i></div>
                             <h4>
-                                easily digital boost</h4>
+                            Website Solutions</h4>
                         </div>
-                        <p>We don’t just work with concrete and steel. We are Approachable, with even</p>
+                        <p>Transform your digital footprint with custom website design and development, creating sleek, high-performance platforms tailored to your business needs. Our solutions ensure a seamless user experience and robust functionality.</p>
                         <a href="javascript:;" class="analytics-button quote-button">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
                     </div>
                 </div>
+            </div>
+            <div class="row py-5">
+                <div class="col-lg-4">
+                    <div class="analytics-container">
+                        <div class="card-heading">
+                        Graphic 
+                        </div>
+                        <div class="title-wrap">
+                            <div class="item-icon"><i class="bi bi-check2-circle"></i></div>
+                            <h4>Graphic  </h4>
+                        </div>
+                        <p>Revolutionize your brand with our comprehensive graphic services, including innovative UI/UX design, dynamic video editing, and eye-catching social media visuals. Our designs turn concepts into captivating visuals that engage and inspire</p>
+                        <a href="javascript:;" class="analytics-button quote-button">
+                            <span>More Info</span>
+                            <i class="bi bi-plus"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="analytics-container">
+                        <div class="card-heading">
+                        Content 
+                        </div>
+                        <div class="title-wrap">
+                            <div class="item-icon"><i class="bi bi-gear-wide-connected"></i></div>
+                            <h4>Content Marketing</h4>
+                        </div>
+                        <p>Transform your audience engagement with innovative content marketing strategies that resonate and convert. Our tailored content solutions boost visibility and drive meaningful interactions.</p>
+                        <a href="javascript:;" class="analytics-button quote-button">
+                            <span>More Info</span>
+                            <i class="bi bi-plus"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-4 ">
+                    <div class="analytics-container">
+                        <div class="card-heading">
+                        Branding 
+                        </div>
+                        <div class="title-wrap">
+                            <div class="item-icon"><i class="bi bi-lightbulb-fill"></i></i></div>
+                            <h4>
+                            Branding and Media Strategy</h4>
+                        </div>
+                        <p>Develop a strong brand presence with our comprehensive services, including tailored branding strategies, custom logo design, and detailed brand manual documentation.</p>
+                        <a href="javascript:;" class="analytics-button quote-button">
+                            <span>More Info</span>
+                            <i class="bi bi-plus"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="row py-5">
+                <div class="col-lg-4">
+                    <div class="analytics-container">
+                        <div class="card-heading">
+                        Video
+                        </div>
+                        <div class="title-wrap">
+                            <div class="item-icon"><i class="bi bi-check2-circle"></i></div>
+                            <h4>Video Animation </h4>
+                        </div>
+                        <p>Bring your stories to life with stunning video animations that engage and entertain. Our creative animations combine artistry with technology to create compelling visual narratives.</p>
+                        <a href="javascript:;" class="analytics-button quote-button">
+                            <span>More Info</span>
+                            <i class="bi bi-plus"></i>
+                        </a>
+                    </div>
+                </div>
+                <div class="col-lg-8">
+                    <div class="home-it-image-wrapper">
+                        <img src="assets/images/home-it-image.png" alt="">
+                    </div>
+                </div>
+              
             </div>
         </div>
     </div>
@@ -142,8 +216,7 @@
                 <div class="col-md-4">
                     <div class="about-heading-paragraph">
                         <p>
-                            We don’t just work with concrete and steel. We've collected the of creative websites, web
-                            design concepts and ideas work and steel We are Approachable,.
+                           Blizztech is where visionary ideas meet state-of-the-art technology. We specialize in crafting intelligent digital ecosystems that accelerate growth and enhance your brand’s digital footprint.
                         </p>
                     </div>
                 </div>
@@ -155,23 +228,21 @@
                     </div>
                 </div>
                 <div class="col-xxl-6 col-md-6">
-                    <div class="accordion accordion-flush" id="accordionExample">
+                <div class="accordion accordion-flush" id="accordionExample">
                         <div class="accordion-item">
                             <h2 class="accordion-header">
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                     <div class="about-accord">
-                                        <span class="about-number">15</span> <img src="assets/images/a2-icon-1.webp"
-                                            alt=""> <span>year of experience</span>
+                                        <span class="about-number">5</span> <img src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp"
+                                            alt=""> <span>years’ experience</span>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse "
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We don’t just work with concrete and steel the
-                                    best examples of creative websites concepts
-                                    and ideas We are
+                                5 years of innovation, delivering top-tier IT solutions.
                                 </div>
                             </div>
                         </div>
@@ -180,17 +251,15 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     <div class="about-accord">
-                                        <span class="about-number">300</span> <img
-                                            src="assets/images/a2-icon-1.webp" alt=""> <span>Project Complete</span>
+                                        <span class="about-number">250+</span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> Projects Completed</span>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We don’t just work with concrete and steel the
-                                    best examples of creative websites concepts
-                                    and ideas We are
+                                250+ successful projects delivered, driving business success worldwide.
                                 </div>
                             </div>
                         </div>
@@ -199,17 +268,32 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     <div class="about-accord">
-                                        <span class="about-number">500</span> <img
-                                            src="assets/images/a2-icon-1.webp" alt=""> <span>Happy Customers</span>
+                                        <span class="about-number">200+ </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Happy Customers</span>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We don’t just work with concrete and steel the
-                                    best examples of creative websites concepts
-                                    and ideas We are
+                                Trusted by 400+ satisfied clients across the globe.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                    <div class="about-accord">
+                                        <span class="about-number">20%  </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Faster Product Delivery</span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapsefour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Benefit from our 20% quicker product delivery, streamlining your success.
                                 </div>
                             </div>
                         </div>
@@ -270,12 +354,12 @@
                             <div class="price-box">
                                 <div class="price-box-border">
                                     <div class="left">
-                                        <h3>
+                                        <h6>
                                             <span class="dollar">$</span>
                                             <span class="price">19</span>
                                             <br>
                                             basic
-                                        </h3>
+                                        </h6>
                                         <div class="button-div">
                                             <a href="" class="sign-up">
                                                 <span>sign up</span>
@@ -301,12 +385,12 @@
                             <div class="price-box">
                                 <div class="price-box-border">
                                     <div class="left">
-                                        <h3>
+                                        <h6>
                                             <span class="dollar">$</span>
                                             <span class="price">19</span>
                                             <br>
                                             basic
-                                        </h3>
+                                        </h6>
                                         <div class="button-div">
                                             <a href="" class="sign-up">
                                                 <span>sign up</span>
@@ -324,12 +408,12 @@
                             <div class="price-box">
                                 <div class="price-box-border">
                                     <div class="left">
-                                        <h3>
+                                        <h6>
                                             <span class="dollar">$</span>
                                             <span class="price">19</span>
                                             <br>
                                             basic
-                                        </h3>
+                                        </h6>
                                         <div class="button-div">
                                             <a href="" class="sign-up">
                                                 <span>sign up</span>
@@ -359,6 +443,13 @@
     <div id="testimonial-section">
         <div class="testi-area">
             <div class="container">
+            <div class="test-content">
+                <h2 class="text-center">Testimonial</h2>
+                    <h6 class="text-center">Proud to serve as the innovation partner for industry leaders  who have experienced our expertise and excellence firsthand.</h6>
+                </div>  
+            </div>
+            <div class="container">
+               
                 <div class="custom-slider-1">
                     <div>
                         <div class="slide-1">
@@ -366,10 +457,9 @@
                                 <img src="assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
-                                <span>What People Say</span>
-                                <h3>
-                                    When an unknown printer took A galley of type and scrambled it to make a type
-                                    specimen Book. It has survived not only Five centuries. </h3>
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                "<span>Blizztech Solutions</span> managed to provide successful support and development in a timely manner. The app is still in preparation for the beta launch, but it has been receiving a lot of positive feedback from the client. The team provided excellent workflow and communication throughout the project." </h6>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
                                         <img src="assets/images/t1-img-1.webp" alt="">
@@ -394,10 +484,9 @@
                                 <img src="assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
-                                <span>What People Say</span>
-                                <h3>
-                                    When an unknown printer took A galley of type and scrambled it to make a type
-                                    specimen Book. It has survived not only Five centuries. </h3>
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “<span>Blizztech</span> produced clean code and the app got positive reviews. While there were staffing and language issues, the overall experience was positive. The assigned resources were attentive and fixed problems within a day." </h6>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
                                         <img src="assets/images/t1-img-2.webp" alt="">
@@ -422,10 +511,9 @@
                                 <img src="assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
-                                <span>What People Say</span>
-                                <h3>
-                                    When an unknown printer took A galley of type and scrambled it to make a type
-                                    specimen Book. It has survived not only Five centuries. </h3>
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “ <span>Blizztech Solutions</span> has done wonders in marketing my products. It has amazed me with social media campaigns, website development, graphic designing, SEO content writing, and aesthetics. Their work has boosted my sale, and branding in innovative styles has placed my brand among popular names in the market. They provide excellent services with satisfaction, and keeping the client's interest is their paramount responsibility. Strongly recommended for their services."</h6>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
                                         <img src="assets/images/t1-img-1.webp" alt="">
@@ -443,6 +531,62 @@
                                 </div>
                             </div>
                         </div>
+</div>
+<div>
+                        <div class="slide-1">
+                            <div class="icon-world">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                            </div>
+                            <div class="world-content-wrap">
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “We were amazed by the high level of professionalism and artistry in the 3D animations from <span>Blizztech Solutions</span>. Their team skillfully combined technical expertise with creative flair to deliver animations that are both captivating and immersive.” </h6>
+                                <div class="person-wrap">
+                                    <div class="person-image-wrap">
+                                        <img src="assets/images/t1-img-1.webp" alt="">
+                                    </div>
+                                    <div class="person-wrap-2">
+                                        <h4>Charli Hapan</h4>
+                                        <div class="person-star">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div>
+                        <div class="slide-1">
+                            <div class="icon-world">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                            </div>
+                            <div class="world-content-wrap">
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “<span>Blizztech’s</span> website development services were a game-changer for us. Their custom design and development approach created a website that is not only visually stunning but also performs exceptionally well, driving our business forward.” </h6>
+                                <div class="person-wrap">
+                                    <div class="person-image-wrap">
+                                        <img src="assets/images/t1-img-1.webp" alt="">
+                                    </div>
+                                    <div class="person-wrap-2">
+                                        <h4>Charli Hapan</h4>
+                                        <div class="person-star">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        
                     </div>
                     <!-- Add more slides as needed -->
                 </div>

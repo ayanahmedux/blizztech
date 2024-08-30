@@ -20,8 +20,7 @@
                 <div class="col-md-4">
                     <div class="about-heading-paragraph">
                         <p>
-                            We don’t just work with concrete and steel. We've collected the of creative websites, web
-                            design concepts and ideas work and steel We are Approachable,.
+                           Blizztech is where visionary ideas meet state-of-the-art technology. We specialize in crafting intelligent digital ecosystems that accelerate growth and enhance your brand’s digital footprint.
                         </p>
                     </div>
                 </div>
@@ -39,17 +38,15 @@
                                 <button class="accordion-button" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                                     <div class="about-accord">
-                                        <span class="about-number">15</span> <img src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp"
-                                            alt=""> <span>year of experience</span>
+                                        <span class="about-number">5</span> <img src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp"
+                                            alt=""> <span>years’ experience</span>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse "
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We don’t just work with concrete and steel the
-                                    best examples of creative websites concepts
-                                    and ideas We are
+                                5 years of innovation, delivering top-tier IT solutions.
                                 </div>
                             </div>
                         </div>
@@ -58,17 +55,15 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     <div class="about-accord">
-                                        <span class="about-number">300</span> <img
-                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Project Complete</span>
+                                        <span class="about-number">250+</span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> Projects Completed</span>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We don’t just work with concrete and steel the
-                                    best examples of creative websites concepts
-                                    and ideas We are
+                                250+ successful projects delivered, driving business success worldwide.
                                 </div>
                             </div>
                         </div>
@@ -77,7 +72,7 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                                     <div class="about-accord">
-                                        <span class="about-number">500</span> <img
+                                        <span class="about-number">200+ </span> <img
                                             src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Happy Customers</span>
                                     </div>
                                 </button>
@@ -85,9 +80,24 @@
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    We don’t just work with concrete and steel the
-                                    best examples of creative websites concepts
-                                    and ideas We are
+                                Trusted by 400+ satisfied clients across the globe.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                    <div class="about-accord">
+                                        <span class="about-number">20%  </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Faster Product Delivery</span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapsefour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Benefit from our 20% quicker product delivery, streamlining your success.
                                 </div>
                             </div>
                         </div>

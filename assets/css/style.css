@@ -837,18 +837,24 @@ a.sign-up {
     color: white;
     font-family: 'Unbounded';
 }
-.world-content-wrap h3 {
-    font-size: 30px;
+.world-content-wrap h6 {
+    font-size: 20px;
     line-height: 1.66;
     margin-bottom: 80px;
    color: white;
+}
+.world-content-wrap h6 span{
+   color: #27d5fc;
+   font-size: 20px;
+   line-height: 1.66;
+   font-weight: 500;
 }
 .slide-1::after {
     content: "";
     width: 475px;
     height: 475px;
     border-radius: 50%;
-    background: -webkit-linear-gradient(360deg, hsla(191, 97%, 57%, 1) 0%, hsla(255, 68%, 62%, 1) 100%);
+    background: -webkit-linear-gradient(360deg, #27d5fc 0%, hsla(255, 68%, 62%, 1) 100%);
     position: absolute;
     z-index: -1;
     top: 50%;
@@ -1053,9 +1059,10 @@ div#contact-us-section input.btn.btn-primary:hover{
     color: white;
 }   
 ul.dropdown-menu.show {
-    width: 900px;
+    width: 100vw;
     background: white;
-    padding: 20px 10px; 
+    padding: 20px 0px;
+    left: -440px;
 }
 ul.dropdown-menu.show ul {
     padding-left: 0px;
@@ -1089,7 +1096,7 @@ div#seo-section {
 div#seo-section h2 {
     color: white;
     text-transform: capitalize;
-    font-size: 35px;
+    font-size: 30px;
     font-weight: 800;
     margin-bottom: 20px;
 }
@@ -1374,4 +1381,25 @@ span.close {
     right: 0;
     top: 0;
     cursor: pointer;
+}
+
+.test-content {
+    margin-bottom: 70px;
+}
+.test-content h6 {
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+.home-it-image-wrapper img {
+    width: 100%;
+    animation: updown 2s linear infinite alternate;
+}
+.test-content h2 {
+    font-size: 60px;
+    color: white;
+    text-transform: capitalize;
+    font-weight: 800;
+    margin-bottom: 20px;
 }

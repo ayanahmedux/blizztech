@@ -16,7 +16,7 @@
           <ul class="dropdown-menu">
             <div class="container">
               <div class="row">
-                <div class="col-lg-4 first-menu">
+                <div class="col first-menu">
                   <h6>digital marketing services</h6>
                   <ul class="service-menu">
                     <li><a href="seo">Search Engine Optimization</a></li>
@@ -28,7 +28,7 @@
                   </ul>
 
                 </div>
-                <div class="col-lg-4 second-menu">
+                <div class="col second-menu">
                   <h6>graphic & animation</h6>
                   <ul>
                     <li><a href="uiuxdesign">UI/UX Design</a></li>
@@ -38,12 +38,51 @@
                   </ul>
 
                 </div>
-                <div class="col-lg-4 second-menu">
+                <div class="col second-menu">
                   <h6>website solution</h6>
                   <ul>
-                    <li><a href="#">website design and development</a></li>
-                    <li><a href="#">custom website development</a></li>
-                    <li><a href="#">ecommerce web development</a></li>
+                    <li><a href="websitedesigndevelopment">website design and development</a></li>
+                    <li><a href="customwebsitedevelopment">custom website development</a></li>
+                    <li><a href="ecommerecedevelopment">ecommerce web development</a></li>
+                  </ul>
+
+                </div>
+                <div class="col second-menu">
+                  <h6>Mobile Application</h6>
+                  <ul>
+                    <li><a href="websitedesigndevelopment">	IOS App Development</a></li>
+                    <li><a href="customwebsitedevelopment">	Android App Development</a></li>
+                    <li><a href="ecommerecedevelopment">eCommerce App Development</a></li>
+                  </ul>
+
+                </div>
+                <div class="col second-menu">
+                  <h6>BRANDING AND MEDIA STRATEGY </h6>
+                  <ul>
+                    <li><a href="websitedesigndevelopment">	Branding Strategy </a></li>
+                    <li><a href="customwebsitedevelopment">	Logo Designing </a></li>
+                    <li><a href="ecommerecedevelopment">	Brand Manual Document</a></li>
+                  </ul>
+
+                </div>
+                <div class="col second-menu">
+                  <h6>CONTENT MARKETING</h6>
+                  <ul>
+                   <li><a href="websitedesigndevelopment">	Website Content </a></li>
+                    <li><a href="customwebsitedevelopment">	Writing Social Media </a></li>
+                    <li><a href="ecommerecedevelopment">	Content Marketing</a></li>
+                  </ul>
+
+                </div>
+                <div class="col second-menu">
+                  <h6>Video Animation </h6>
+                  <ul>
+                   <li><a href="websitedesigndevelopment">		2d Character Animation </a></li>
+                    <li><a href="customwebsitedevelopment">		2d Graphics Animation </a></li>
+                    <li><a href="ecommerecedevelopment">		Explainer Video Animation</a></li>
+                    <li><a href="ecommerecedevelopment">	Whiteboard Animation</a></li>
+                    <li><a href="ecommerecedevelopment">		Interactive 3d Animation</a></li>
+                    <li><a href="ecommerecedevelopment">		Typography Animation</a></li>
                   </ul>
 
                 </div>
