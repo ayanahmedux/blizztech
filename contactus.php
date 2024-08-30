@@ -53,7 +53,7 @@ if(isset($_POST['submit'])) {
         <div class="row">
             <div class="col-lg-6">
                 <div class="contact-image-wrap">
-                    <img src="./assets/images/contact-us-image.webp" alt="">
+                    <img src="assets/images/contact-us-image.webp" alt="">
                 </div>
             </div>
             <div class="col-lg-6">

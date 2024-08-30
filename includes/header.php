@@ -19,22 +19,22 @@
                 <div class="col-lg-4 first-menu">
                   <h6>digital marketing services</h6>
                   <ul class="service-menu">
-                    <li><a href="seo.php">Search Engine Optimization</a></li>
-                    <li><a href="socialmedia.php">Social Media Management</a></li>
-                    <li><a href="ppcmarketing.php">Pay Per Click (PPC) Marketing</a></li>
-                    <li><a href="#">Google and Meta Ads</a></li>
-                    <li><a href="#">Email Marketing</a></li>
-                    <li><a href="#">Local SEO</a></li>
+                    <li><a href="seo">Search Engine Optimization</a></li>
+                    <li><a href="socialmedia">Social Media Management</a></li>
+                    <li><a href="ppcmarketing">Pay Per Click (PPC) Marketing</a></li>
+                    <li><a href="googleandmeta">Google and Meta Ads</a></li>
+                    <li><a href="emailmarketing">Email Marketing</a></li>
+                    <li><a href="localseo">Local SEO</a></li>
                   </ul>
 
                 </div>
                 <div class="col-lg-4 second-menu">
                   <h6>graphic & animation</h6>
                   <ul>
-                    <li><a href="#">UI/UX Design</a></li>
-                    <li><a href="#">Video Editing</a></li>
-                    <li><a href="#">Social Media Design</a></li>
-                    <li><a href="#">graphics and animation</a></li>
+                    <li><a href="uiuxdesign">UI/UX Design</a></li>
+                    <li><a href="video-editing">Video Editing</a></li>
+                    <li><a href="socialmediadesign">Social Media Design</a></li>
+                    <li><a href="graphicsandanimation">graphics and animation</a></li>
                   </ul>
 
                 </div>

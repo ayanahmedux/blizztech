@@ -11,7 +11,7 @@
                     optimization
         </div>
         <div class="lets-talk-button">
-            <a href="">
+            <a href="javascript:;" class="quote-button">
                 <i class="bi bi-chat-fill"></i>
                 <span>Let’s Talk</span></a>
         </div>
@@ -34,12 +34,12 @@
                     <h2>search engine optimization</h2>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ab eaque perspiciatis minima iste, omnis a temporibus, enim neque saepe harum delectus minus, ducimus illum sed quia? Exercitationem dicta aspernatur non deserunt! Adipisci, consectetur eos facere, aperiam eum ipsam vero esse placeat quod ratione consequatur debitis at quaerat sequi commodi quisquam dolorum inventore blanditiis. Nisi tenetur, consequuntur fugiat nesciunt ab amet quia labore hic quae repudiandae voluptatem tempora quos architecto eligendi neque minus maiores sapiente! Eos magni quis at soluta sunt voluptates, dignissimos illo officia sint eum accusamus consequatur nesciunt. Repudiandae asperiores recusandae culpa illo voluptas! Cupiditate dignissimos iure nisi!</p>
                     <div class="me-auto">
-                    <button class="hire-button">Get A Quote</button>
+                    <button class="hire-button quote-button">Get A Quote</button>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="services-image">
-                        <img src="./assets/images/seo-image.png" alt="">
+                        <img src="assets/images/seo-image.png" alt="">
                     </div>
                 </div>
             </div>
