@@ -126,7 +126,7 @@ nav {
         height: 300px;
         overflow-x: scroll;
     }
-    ul.dropdown-menu.show row {
+    ul.dropdown-menu.show .row {
        display: block;
     }
     nav {
