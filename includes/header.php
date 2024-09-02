@@ -47,7 +47,7 @@
 
                 </div>
                 <div class="col second-menu">
-                  <h6><a href="mobileapplication.php">Mobile Application</a></h6>
+                  <h6><a href="mobileapplication">Mobile Application</a></h6>
                   <ul>
                     <li><a href="iosappdevelopment">	IOS App Development</a></li>
                     <li><a href="android">	Android App Development</a></li>
