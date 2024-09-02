@@ -1414,3 +1414,11 @@ span.close {
 ul.dropdown-menu.show .col {
     padding: 0px 10px !important;
 }
+div#footer-parent .col-md-4.col-lg-3.col-xl-3 a {
+    text-decoration: none;
+    color: white;
+}   
+ul.dropdown-menu.show a {
+    text-decoration: none;
+    color: unset;
+}

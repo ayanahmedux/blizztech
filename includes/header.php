@@ -17,7 +17,7 @@
             <div class="container">
               <div class="row">
                 <div class="col first-menu">
-                  <h6>digital marketing services</h6>
+                  <h6><a href="digitalmarketingservices">digital marketing services</a></h6>
                   <ul class="service-menu">
                     <li><a href="seo">Search Engine Optimization</a></li>
                     <li><a href="socialmedia">Social Media Management</a></li>
@@ -29,17 +29,16 @@
 
                 </div>
                 <div class="col second-menu">
-                  <h6>graphic & animation</h6>
+                  <h6><a href="graphicsandanimation">graphic & animation</a></h6>
                   <ul>
                     <li><a href="uiuxdesign">UI/UX Design</a></li>
                     <li><a href="video-editing">Video Editing</a></li>
                     <li><a href="socialmediadesign">Social Media Design</a></li>
-                    <li><a href="graphicsandanimation">graphics and animation</a></li>
                   </ul>
 
                 </div>
                 <div class="col second-menu">
-                  <h6>website solution</h6>
+                  <h6><a href="websitesolutions">website solution</a></h6>
                   <ul>
                     <li><a href="websitedesigndevelopment">website design and development</a></li>
                     <li><a href="customwebsitedevelopment">custom website development</a></li>
@@ -48,7 +47,7 @@
 
                 </div>
                 <div class="col second-menu">
-                  <h6>Mobile Application</h6>
+                  <h6><a href="mobileapplication.php">Mobile Application</a></h6>
                   <ul>
                     <li><a href="iosappdevelopment">	IOS App Development</a></li>
                     <li><a href="android">	Android App Development</a></li>
@@ -82,7 +81,7 @@
                     <li><a href="explainervideoanimation">		Explainer Video Animation</a></li>
                     <li><a href="whiteboardanimation">	Whiteboard Animation</a></li>
                     <li><a href="interactive3danimation">		Interactive 3D Animation</a></li>
-                    <li><a href="ecommerecedevelopment">		Typography Animation</a></li>
+                    <li><a href="typographyanimation">		Typography Animation</a></li>
                   </ul>
 
                 </div>
@@ -92,9 +91,6 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="portfolio">portfolio</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">blogs</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="about">About us</a>

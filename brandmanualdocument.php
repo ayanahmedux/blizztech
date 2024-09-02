@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="services-image">
-                        <img src="assets/images/website-design-development.png" alt="">
+                        <img src="assets/images/brand-manual-document.png" alt="">
                     </div>
                 </div>
             </div>

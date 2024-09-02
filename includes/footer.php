@@ -92,7 +92,7 @@ if(isset($_POST['submit'])) {
               <i class="fas fa-gem me-3"></i>Services
             </h6>
             <p>
-              <a href="#!" class="text-reset">DIGITAL MARKETING SERVICES</a>
+              <a href="digitalmarketingservices" class="text-reset">DIGITAL MARKETING SERVICES</a>
             </p>
             <p>
               <a href="about" class="text-reset">WEBSITE SOLUTION </a>
@@ -107,7 +107,7 @@ if(isset($_POST['submit'])) {
               <a href="contactus" class="text-reset">CONTENT MARKETING </a>
             </p>
             <p>
-              <a href="contactus" class="text-reset">GRAPHIC  </a>
+              <a href="graphicsandanimation" class="text-reset">GRAPHIC & ANIMATION </a>
             </p>
             <p>
               <a href="contactus" class="text-reset">Video Animation </a>
@@ -128,7 +128,7 @@ if(isset($_POST['submit'])) {
             <i class="bi bi-envelope-fill me-3"></i></i>
               info@blizztechsolutions.com
             </p>
-            <p><i class="bi bi-telephone-fill me-3"></i> +1 713-922-8987</p>
+            <p><i class="bi bi-telephone-fill me-3"></i> <a href="+1 713-922-8987">+1 713-922-8987</a></p>
           </div>
           <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4">
             <!-- Links -->

@@ -1,9 +1,6 @@
 <div id="our-projects">
         <div class="container">
             <div class="projects-heading text-center">
-                <h5>
-                    OVER 150.000+ CLIENTS
-                </h5>
                 <h2>Our Projects</h2>
             </div>
             <!-- Tab links -->

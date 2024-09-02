@@ -106,23 +106,29 @@
             </div>
         </div>
     </div>
-<div id="testimonial-section">
+    <div id="testimonial-section">
         <div class="testi-area">
             <div class="container">
+            <div class="test-content">
+                <h2 class="text-center">Testimonial</h2>
+                    <h6 class="text-center">Proud to serve as the innovation partner for industry leaders  who have experienced our expertise and excellence firsthand.</h6>
+                </div>  
+            </div>
+            <div class="container">
+               
                 <div class="custom-slider-1">
                     <div>
                         <div class="slide-1">
                             <div class="icon-world">
-                                <img src="https://www.blizztechsolutions.com/assets/images/t2-quote.webp" alt="Slide 1">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
-                                <span>What People Say</span>
-                                <h3>
-                                    When an unknown printer took A galley of type and scrambled it to make a type
-                                    specimen Book. It has survived not only Five centuries. </h3>
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                "<span>Blizztech Solutions</span> managed to provide successful support and development in a timely manner. The app is still in preparation for the beta launch, but it has been receiving a lot of positive feedback from the client. The team provided excellent workflow and communication throughout the project." </h6>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
-                                        <img src="https://www.blizztechsolutions.com/assets/images/t1-img-1.webp" alt="">
+                                        <img src="assets/images/t1-img-1.webp" alt="">
                                     </div>
                                     <div class="person-wrap-2">
                                         <h4>Charli Hapan</h4>
@@ -141,16 +147,15 @@
                     <div>
                         <div class="slide-1">
                             <div class="icon-world">
-                                <img src="https://www.blizztechsolutions.com/assets/images/t2-quote.webp" alt="Slide 1">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
-                                <span>What People Say</span>
-                                <h3>
-                                    When an unknown printer took A galley of type and scrambled it to make a type
-                                    specimen Book. It has survived not only Five centuries. </h3>
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “<span>Blizztech</span> produced clean code and the app got positive reviews. While there were staffing and language issues, the overall experience was positive. The assigned resources were attentive and fixed problems within a day." </h6>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
-                                        <img src="https://www.blizztechsolutions.com/assets/images/t1-img-2.webp" alt="">
+                                        <img src="assets/images/t1-img-2.webp" alt="">
                                     </div>
                                     <div class="person-wrap-2">
                                         <h4>Charli Hapan</h4>
@@ -169,16 +174,15 @@
                     <div>
                         <div class="slide-1">
                             <div class="icon-world">
-                                <img src="https://www.blizztechsolutions.com/assets/images/t2-quote.webp" alt="Slide 1">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
                             </div>
                             <div class="world-content-wrap">
-                                <span>What People Say</span>
-                                <h3>
-                                    When an unknown printer took A galley of type and scrambled it to make a type
-                                    specimen Book. It has survived not only Five centuries. </h3>
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “ <span>Blizztech Solutions</span> has done wonders in marketing my products. It has amazed me with social media campaigns, website development, graphic designing, SEO content writing, and aesthetics. Their work has boosted my sale, and branding in innovative styles has placed my brand among popular names in the market. They provide excellent services with satisfaction, and keeping the client's interest is their paramount responsibility. Strongly recommended for their services."</h6>
                                 <div class="person-wrap">
                                     <div class="person-image-wrap">
-                                        <img src="https://www.blizztechsolutions.com/assets/images/t1-img-1.webp" alt="">
+                                        <img src="assets/images/t1-img-1.webp" alt="">
                                     </div>
                                     <div class="person-wrap-2">
                                         <h4>Charli Hapan</h4>
@@ -193,6 +197,62 @@
                                 </div>
                             </div>
                         </div>
+</div>
+<div>
+                        <div class="slide-1">
+                            <div class="icon-world">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                            </div>
+                            <div class="world-content-wrap">
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “We were amazed by the high level of professionalism and artistry in the 3D animations from <span>Blizztech Solutions</span>. Their team skillfully combined technical expertise with creative flair to deliver animations that are both captivating and immersive.” </h6>
+                                <div class="person-wrap">
+                                    <div class="person-image-wrap">
+                                        <img src="assets/images/t1-img-1.webp" alt="">
+                                    </div>
+                                    <div class="person-wrap-2">
+                                        <h4>Charli Hapan</h4>
+                                        <div class="person-star">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        <div>
+                        <div class="slide-1">
+                            <div class="icon-world">
+                                <img src="assets/images/t2-quote.webp" alt="Slide 1">
+                            </div>
+                            <div class="world-content-wrap">
+                                <span>Our clients simply love what we do</span>
+                                <h6>
+                                “<span>Blizztech’s</span> website development services were a game-changer for us. Their custom design and development approach created a website that is not only visually stunning but also performs exceptionally well, driving our business forward.” </h6>
+                                <div class="person-wrap">
+                                    <div class="person-image-wrap">
+                                        <img src="assets/images/t1-img-1.webp" alt="">
+                                    </div>
+                                    <div class="person-wrap-2">
+                                        <h4>Charli Hapan</h4>
+                                        <div class="person-star">
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                            <i class="bi bi-star-fill"></i>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        
                     </div>
                     <!-- Add more slides as needed -->
                 </div>
@@ -202,7 +262,6 @@
 
             </div>
         </div>
-    </div>
 <?php include_once("includes/footer.php") ?>
 </body>
 </html>
