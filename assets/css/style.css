@@ -122,6 +122,15 @@ nav {
 }
 /*Styling for small screens*/
 @media screen and (max-width: 800px) {
+    ul.dropdown-menu.show {
+        height: 300px;
+        overflow-x: scroll;
+        width: 100% !important;
+        left: unset !important;
+    }
+    ul.dropdown-menu.show .row {
+       display: block;
+    }
     nav {
         background-color: #000; /* Black background for small screens */
     }
