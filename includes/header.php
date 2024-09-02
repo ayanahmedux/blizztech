@@ -50,38 +50,38 @@
                 <div class="col second-menu">
                   <h6>Mobile Application</h6>
                   <ul>
-                    <li><a href="websitedesigndevelopment">	IOS App Development</a></li>
-                    <li><a href="customwebsitedevelopment">	Android App Development</a></li>
-                    <li><a href="ecommerecedevelopment">eCommerce App Development</a></li>
+                    <li><a href="iosappdevelopment">	IOS App Development</a></li>
+                    <li><a href="android">	Android App Development</a></li>
+                    <li><a href="ecommerceappdevelopment">eCommerce App Development</a></li>
                   </ul>
 
                 </div>
                 <div class="col second-menu">
-                  <h6>BRANDING AND MEDIA STRATEGY </h6>
+                  <h6>BRANDING & MEDIA STRATEGY </h6>
                   <ul>
-                    <li><a href="websitedesigndevelopment">	Branding Strategy </a></li>
-                    <li><a href="customwebsitedevelopment">	Logo Designing </a></li>
-                    <li><a href="ecommerecedevelopment">	Brand Manual Document</a></li>
+                    <li><a href="brandingstrategy">	Branding Strategy </a></li>
+                    <li><a href="logodesign">	Logo Designing </a></li>
+                    <li><a href="brandmanualdocument">	Brand Manual Document</a></li>
                   </ul>
 
                 </div>
                 <div class="col second-menu">
                   <h6>CONTENT MARKETING</h6>
                   <ul>
-                   <li><a href="websitedesigndevelopment">	Website Content </a></li>
-                    <li><a href="customwebsitedevelopment">	Writing Social Media </a></li>
-                    <li><a href="ecommerecedevelopment">	Content Marketing</a></li>
+                   <li><a href="websitecontent">	Website Content </a></li>
+                    <li><a href="writingsocialmedia">	Writing Social Media </a></li>
+                    <li><a href="contentmarketing">	Content Marketing</a></li>
                   </ul>
 
                 </div>
                 <div class="col second-menu">
                   <h6>Video Animation </h6>
                   <ul>
-                   <li><a href="websitedesigndevelopment">		2d Character Animation </a></li>
-                    <li><a href="customwebsitedevelopment">		2d Graphics Animation </a></li>
-                    <li><a href="ecommerecedevelopment">		Explainer Video Animation</a></li>
-                    <li><a href="ecommerecedevelopment">	Whiteboard Animation</a></li>
-                    <li><a href="ecommerecedevelopment">		Interactive 3d Animation</a></li>
+                   <li><a href="2dcharacteranimation">		2D Character Animation </a></li>
+                    <li><a href="2dgraphicsanimation">		2D Graphics Animation </a></li>
+                    <li><a href="explainervideoanimation">		Explainer Video Animation</a></li>
+                    <li><a href="whiteboardanimation">	Whiteboard Animation</a></li>
+                    <li><a href="interactive3danimation">		Interactive 3D Animation</a></li>
                     <li><a href="ecommerecedevelopment">		Typography Animation</a></li>
                   </ul>
 

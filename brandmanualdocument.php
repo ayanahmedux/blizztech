@@ -6,7 +6,7 @@
 <?php include_once("includes/header.php") ?>
 <div id="hero-section">
         <div class="heading-hero">
-            <h1>UI/UX  <span>design
+            <h1> brand Manual <br><span>Document
                     </span>
         </div>
         <div class="lets-talk-button">
@@ -30,7 +30,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 seo-sec-1">
-                    <h2>UI/UX design</h2>
+                    <h2>brand manual Document</h2>
                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ab eaque perspiciatis minima iste, omnis a temporibus, enim neque saepe harum delectus minus, ducimus illum sed quia? Exercitationem dicta aspernatur non deserunt! Adipisci, consectetur eos facere, aperiam eum ipsam vero esse placeat quod ratione consequatur debitis at quaerat sequi commodi quisquam dolorum inventore blanditiis. Nisi tenetur, consequuntur fugiat nesciunt ab amet quia labore hic quae repudiandae voluptatem tempora quos architecto eligendi neque minus maiores sapiente! Eos magni quis at soluta sunt voluptates, dignissimos illo officia sint eum accusamus consequatur nesciunt. Repudiandae asperiores recusandae culpa illo voluptas! Cupiditate dignissimos iure nisi!</p>
                     <div class="me-auto">
                     <button class="hire-button quote-button">Get A Quote</button>
@@ -38,7 +38,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="services-image">
-                        <img src="assets/images/uiux-images.png" alt="">
+                        <img src="assets/images/website-design-development.png" alt="">
                     </div>
                 </div>
             </div>

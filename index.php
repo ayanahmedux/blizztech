@@ -30,40 +30,46 @@
     </div>
     <div id="slider-section">
         <div class="your-class">
-            <div class="px-3"><img src="assets/images/p2-img-1.webp" alt="Image 1">
+            <div class="px-3"><img src="assets/images/digital-marketing-slider.jpg" alt="Image 1">
                 <div class="slider-content">
-                    <h6>Generation of Wealth</h6>
-                    <h5>App Development</h5>
+                    <h6>blizz tech solutions</h6>
+                    <h5>digital marketing <br> services</h5>
                 </div>
             </div>
-            <div class="px-3"><img src="assets/images/p2-img-2.webp" alt="Image 2">
+            <div class="px-3"><img src="assets/images/graphics-animation-slider.jpg" alt="Image 2">
                 <div class="slider-content">
-                    <h6>Generation of Wealth</h6>
-                    <h5>App Development</h5>
+                    <h6>blizz tech solutions</h6>
+                    <h5>graphics & animation</h5>
                 </div>
             </div>
-            <div class="px-3"><img src="assets/images/p2-img-3.webp" alt="Image 3">
+            <div class="px-3"><img src="assets/images/website-solutions-slider.jpg" alt="Image 3">
                 <div class="slider-content">
-                    <h6>Generation of Wealth</h6>
-                    <h5>App Development</h5>
+                    <h6>blizz tech solutions</h6>
+                    <h5>website solution</h5>
                 </div>
             </div>
-            <div class="px-3"><img src="assets/images/p2-img-1.webp" alt="Image 3">
+            <div class="px-3"><img src="assets/images/mobile-application-slider.jpg" alt="Image 3">
                 <div class="slider-content">
-                    <h6>Generation of Wealth</h6>
-                    <h5>App Development</h5>
+                    <h6>blizz tech solutions</h6>
+                    <h5>mobile application</h5>
                 </div>
             </div>
-            <div class="px-3"><img src="assets/images/p2-img-2.webp" alt="Image 3">
+            <div class="px-3"><img src="assets/images/branding-slider.webp" alt="Image 3">
                 <div class="slider-content">
-                    <h6>Generation of Wealth</h6>
-                    <h5>App Development</h5>
+                    <h6>blizz tech solutions</h6>
+                    <h5>brandiing & media <br> strategy</h5>
                 </div>
             </div>
-            <div class="px-3"><img src="assets/images/p2-img-3.webp" alt="Image 3">
+            <div class="px-3"><img src="assets/images/content-marketing-slider.webp" alt="Image 3">
                 <div class="slider-content">
-                    <h6>Generation of Wealth</h6>
-                    <h5>App Development</h5>
+                    <h6>blizz tech solutions</h6>
+                    <h5>content marketing</h5>
+                </div>
+            </div>
+            <div class="px-3"><img src="assets/images/video-animation-slider.jpg" alt="Image 3">
+                <div class="slider-content">
+                    <h6>blizz tech solutions</h6>
+                    <h5>video animation</h5>
                 </div>
             </div>
         </div>

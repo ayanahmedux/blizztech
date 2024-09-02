@@ -6,7 +6,7 @@
 <?php include_once("includes/header.php") ?>
 <div id="hero-section">
         <div class="heading-hero">
-            <h1>video <br> <span>editing
+            <h1>video <span>editing
                     </span>
         </div>
         <div class="lets-talk-button">

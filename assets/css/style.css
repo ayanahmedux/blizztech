@@ -311,6 +311,7 @@ div#slider-section {
     line-height: 32px;
     color: white;
     font-weight: 800;
+    text-transform: capitalize;
 }
 .slider-content h6 {
     font-family: "Epilogue", sans-serif;
@@ -320,6 +321,7 @@ div#slider-section {
     font-size: 16px;
     line-height: 24px;
     color: white;
+    text-transform: capitalize;
 }
  .slider-content {
     position: absolute;
@@ -338,6 +340,7 @@ div#slider-section {
 }
 .slick-slide.slick-current.slick-active  .slider-content {
     bottom: 50px;
+    text-align: center;
 }
 .your-class button.slick-prev.slick-arrow {
     border: 1px solid black;
@@ -573,6 +576,9 @@ button.tablinks {
 .nav-tabs {
     border: unset !important; 
 }
+.nav-image-parent .nav-image img {
+    width: 100%;
+}
 .nav-image-parent .nav-image {
     overflow: hidden;
     width: 100%;
@@ -582,7 +588,6 @@ button.tablinks {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 50px;
     position: relative;
     z-index: 2;
     transition: 400ms cubic-bezier(.23,1,.32,1);
@@ -592,12 +597,12 @@ button.tablinks {
 }
 .nav-image-parent {
     position: relative;
-    height: 645px;
+    height: 393px;
     z-index: 1;
 }
 .nav-image-content {
     position: absolute;
-    bottom: 0;
+    bottom: -30px;
     left: 0;
     right: 0;
     width: 100%;
@@ -1072,7 +1077,7 @@ ul.dropdown-menu.show ul li {
 }
 ul.dropdown-menu.show ul li a {
     color: black;
-    font-size: 14px;
+    font-size: 13px;
     line-height: 28px;
  text-decoration: none;
 }
@@ -1402,4 +1407,7 @@ span.close {
     text-transform: capitalize;
     font-weight: 800;
     margin-bottom: 20px;
+}
+ul.dropdown-menu.show .col {
+    padding: 0px 10px !important;
 }

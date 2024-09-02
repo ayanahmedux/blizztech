@@ -20,4 +20,5 @@
     <link href="https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap"
         rel="stylesheet">
         <link rel="stylesheet" href="assets/css/style.css">
+        <link rel="shortcut icon" href="assets/images/favcon.png" type="image/x-icon">
 </head>
