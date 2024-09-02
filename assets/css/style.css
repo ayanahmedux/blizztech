@@ -934,6 +934,9 @@ margin-bottom: 12px}
     display: flex;
     gap: 5px;
 }
+.text-reset {
+    text-decoration: unset;
+}
 footer {
     background: #030305;
     max-width: 98%;
