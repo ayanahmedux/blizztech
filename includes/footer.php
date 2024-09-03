@@ -7,7 +7,7 @@ if(isset($_POST['submit'])) {
     $email = $_POST['email'];
     $phone = $_POST['phone'];
     $message = $_POST['message'];
-    $interests = isset($_POST['interests']) ? implode(', ', $_POST['interests']) : 'None'; // Get selected interests
+    $interests = isset($_POST['interests']) ? $_POST['interests'] : 'None'; // Get selected interests
 
     // Set up email headers
     $to = 'info@blizztechsolutions.com';
@@ -37,6 +37,7 @@ if(isset($_POST['submit'])) {
     }
 }
 ?>
+
 
 <div id="footer-parent">
   <!-- Footer -->
@@ -182,7 +183,7 @@ if(isset($_POST['submit'])) {
   <div class="modal-content">
     <span class="close">&times;</span>
     <div class="col-lg-12">
-      <div class="modal-lines text-center">
+      <div class="modal-lines">
         <h2 class="modal-heading">Request an <br>
           <span>Appointment</span>
         </h2>
@@ -190,15 +191,18 @@ if(isset($_POST['submit'])) {
       </div>
       <form method="post" action="">
     <h4>I'm interested in</h4>
-    <div class="mycustom-checkboxes">
+    <div class="mycustom-buttons">
         <ul>
-            <li><input type="checkbox" name="interests[]" value="Custom Software"> Custom Software</li>
-            <li><input type="checkbox" name="interests[]" value="Mobile App"> Mobile App</li>
-            <li><input type="checkbox" name="interests[]" value="UX/UI"> UX/UI</li>
-            <li><input type="checkbox" name="interests[]" value="Web Development"> Web Development</li>
-            <li><input type="checkbox" name="interests[]" value="Social Media Marketing"> Social Media Marketing</li>
+            <li><button type="button" class="interest-btn" data-value="Custom Software">Custom Software</button></li>
+            <li><button type="button" class="interest-btn" data-value="Mobile App">Mobile App</button></li>
+            <li><button type="button" class="interest-btn" data-value="UX/UI">UX/UI</button></li>
+            <li><button type="button" class="interest-btn" data-value="Web Development">Web Development</button></li>
+            <li><button type="button" class="interest-btn" data-value="Social Media Marketing">Social Media Marketing</button></li>
         </ul>
     </div>
+    <!-- Hidden input to store selected interests -->
+    <input type="hidden" name="interests" id="selected-interests">
+
     <div class="row">
         <div class="col-6">
             <div class="mb-3">
@@ -322,3 +326,27 @@ if(isset($_POST['submit'])) {
   })();
 </script>
 <!--End of Tawk.to Script-->
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const buttons = document.querySelectorAll('.interest-btn');
+        const selectedInterests = [];
+
+        buttons.forEach(button => {
+            button.addEventListener('click', function() {
+                const value = this.getAttribute('data-value');
+
+                // Toggle selection
+                if (selectedInterests.includes(value)) {
+                    selectedInterests.splice(selectedInterests.indexOf(value), 1);
+                    this.classList.remove('selected');
+                } else {
+                    selectedInterests.push(value);
+                    this.classList.add('selected');
+                }
+
+                // Update the hidden input value
+                document.getElementById('selected-interests').value = selectedInterests.join(', ');
+            });
+        });
+    });
+</script>

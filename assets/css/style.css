@@ -1023,8 +1023,7 @@ div#contact-us-section {
 }
 input.form-control {
     width: 100%;
-    height: 62px;
-    border-radius: 10px;
+    border-radius: 40px;
     outline: none;
     border: none;
     background: #F5F6F8;
@@ -1032,7 +1031,7 @@ input.form-control {
     font-weight: 400;
     color: rgba(54, 53, 57, 0.25);
     font-family: var(--gly-pr-font);
-    padding: 0 25px;
+    padding: 10px 12px;
 }
 div#contact-us-section h1 {
     font-size: 60px;
@@ -1349,11 +1348,15 @@ div#seo-section .col-lg-6.seo-sec-1 {
 div#quoteModal {
     background: #000000b8;
 }
+div#quoteModal textarea.form-control {
+    height: 70px;
+    resize: unset;
+}
 
 .modal-content {
-    width: 40%;
+    width: 54%;
     margin: 0 auto;
-    top: 86px;
+    top: 16px;
     padding: 30px 40px;
 }
 h2.modal-heading span{
@@ -1376,7 +1379,7 @@ border: 1.5px solid #27D6FC;
 transition: all ease-in-out 350ms
 }
 div#quoteModal input.form-control, div#quoteModal textarea {
-    border: 1px solid black;
+    border: 1px solid #919697;
     background: white;
     color: black;
 }
@@ -1431,7 +1434,7 @@ ul.dropdown-menu.show a {
     text-decoration: none;
     color: unset;
 }
-.mycustom-buttons ul li input {
+.mycustom-buttons ul li button {
     background: #fff;
     border: 1px solid #27d5fc;
     margin: 4px 1px;
@@ -1446,4 +1449,24 @@ ul.dropdown-menu.show a {
 .mycustom-buttons ul {
     margin-bottom: 20px;
     padding: 0;
+}
+.interest-btn {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.interest-btn.selected {
+    background-color: #0084ff;
+    color: white;
+    border-color: #0084ff;
+}
+
+.interest-btn:hover {
+    background-color: #000;
+    color: #Fff;
 }
