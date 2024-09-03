@@ -1476,3 +1476,7 @@ div#contact-us-section form {
     padding: 20px 20px;
     border-radius: 30px;
 }
+div#question-answer-sec {
+    padding: 20px 0px;
+    color: white;
+}
