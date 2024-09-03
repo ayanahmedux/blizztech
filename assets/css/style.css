@@ -1045,11 +1045,12 @@ div#contact-us-section p {
     font-weight: 400;
 }
 div#contact-us-section input.btn.btn-primary {
-    background-color: transparent;
+    background-color: #27D6FC;
     border: 1.5px solid #27D6FC;
     border-radius: 2em;
     padding: 10px 25px;
     color: #f2f5f7;
+    width: 100%;
 }
 div#contact-us-section input.btn.btn-primary:hover{
     color: white;
@@ -1110,7 +1111,7 @@ div#seo-section {
     padding: 60px 0px;
 }
 div#seo-section h2 {
-    color: white;
+    color: #27d6fc;
     text-transform: capitalize;
     font-size: 30px;
     font-weight: 800;
@@ -1469,4 +1470,13 @@ ul.dropdown-menu.show a {
 .interest-btn:hover {
     background-color: #000;
     color: #Fff;
+}
+div#contact-us-section form {
+    border: 1px solid grey;
+    padding: 20px 20px;
+    border-radius: 30px;
+}
+div#question-answer-sec {
+    padding: 20px 0px;
+    color: white;
 }

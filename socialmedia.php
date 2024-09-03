@@ -3,12 +3,12 @@
 <?php include_once("includes/head.php"); ?>
 
 <body>
-<?php include_once("includes/header.php") ?>
-<div id="hero-section">
+    <?php include_once("includes/header.php") ?>
+    <div id="hero-section">
         <div class="heading-hero">
             <h1>social media <br> <span>
-                    management
-                    </span>
+                    marketing
+                </span>
         </div>
         <div class="lets-talk-button">
             <a href="javascript:;" class="quote-button">
@@ -31,10 +31,14 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 seo-sec-1">
-                    <h2>social media management</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ab eaque perspiciatis minima iste, omnis a temporibus, enim neque saepe harum delectus minus, ducimus illum sed quia? Exercitationem dicta aspernatur non deserunt! Adipisci, consectetur eos facere, aperiam eum ipsam vero esse placeat quod ratione consequatur debitis at quaerat sequi commodi quisquam dolorum inventore blanditiis. Nisi tenetur, consequuntur fugiat nesciunt ab amet quia labore hic quae repudiandae voluptatem tempora quos architecto eligendi neque minus maiores sapiente! Eos magni quis at soluta sunt voluptates, dignissimos illo officia sint eum accusamus consequatur nesciunt. Repudiandae asperiores recusandae culpa illo voluptas! Cupiditate dignissimos iure nisi!</p>
+                    <h2>Drive Results and Build Connections with
+                        Strategic Social Media Solutions </h2>
+                    <p>In the ever-evolving digital landscape, social media has become a powerful tool for brands to
+                        connect with their audience and drive engagement. At Blizztech Solutions, we harness the
+                        potential of social media to create dynamic marketing strategies that elevate your brand and drive
+                        meaningful results.</p>
                     <div class="me-auto">
-                    <button class="hire-button quote-button">Get A Quote</button>
+                        <button class="hire-button quote-button">Get A Quote</button>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -45,7 +49,181 @@
             </div>
         </div>
     </div>
-<?php include_once("includes/footer.php") ?>
+    <div id="question-answer-sec">
+        <div class="container">
+            <p>
+                <b>Strategic Social Media Planning </b>
+            <p>Effective social media marketing starts with a well-thought-out plan. We collaborate with you to
+                understand your brand's goals, target audience, and industry trends. Our team develops a tailored
+                social media strategy that aligns with your objectives, ensuring every post and campaign
+                resonates with your audience and drives engagement. </p>
+            </p>
+            <p><b>Engaging Content Creation </b></p>
+            <p>Content is king, and on social media, it’s your way to shine. We create visually compelling and
+                relevant content that captures attention and encourages interaction. From eye-catching graphics
+                and videos to engaging copy and interactive posts, our content is designed to reflect your brand's
+                personality and keep your audience coming back for more. </p>
+            <p>
+                <b>
+                    Targeted Ad Campaigns
+                </b>
+            </p>
+            <p>
+                Reach the right audience at the right time with our targeted social media advertising. We design
+                and manage ad campaigns across platforms like Facebook, Instagram, LinkedIn, and Twitter,
+                using precise targeting to ensure your ads reach users who are most likely to engage with your
+                brand. Our data-driven approach optimizes ad spend and maximizes ROI.
+            </p>
+            <p><b>
+                    Community Management
+                </b></p>
+            <p>
+                Building and maintaining a strong online community is key to long-term success. Our
+                community management services involve actively engaging with your audience, responding to
+                comments and messages, and fostering positive interactions. We help create a vibrant and loyal
+                community around your brand.
+            </p>
+            <p><b>
+                    Social Media Analytics and Reporting
+                </b></p>
+            <p>
+                Measuring success is crucial for continuous improvement. We provide detailed analytics and
+                reports on your social media performance, including engagement rates, follower growth, and
+                campaign effectiveness. Our insights help refine strategies and demonstrate the impact of our
+                efforts on your business goals.
+            </p>
+            <p>
+                <b>Influencer Collaborations </b>
+            </p>
+            <p>
+                Content is the bridge between your brand and your audience. We create compelling, SEO
+                friendly content that not only ranks but also resonates with your target market. Whether it’s
+                engaging blog posts, informative articles, or persuasive landing pages, Blizztech Solutions
+                ensures your content is a key driver of traffic and conversions.
+            </p>
+            <p><b>
+                    Social Media Trends and Innovation
+                </b></p>
+            <p>
+                Staying ahead of trends is essential for social media success. Our team constantly monitors the
+                latest developments and innovations in social media to keep your strategy fresh and relevant. We
+                incorporate new tools and techniques to ensure your brand remains at the forefront of social
+                media marketing.
+            </p>
+
+        </div>
+    </div>
+    <div id="about-us">
+        <div class="container">
+            <div class="row about-row-2">
+                <div class="col-xxl-6 col-md-6">
+                    <div class="image-wrap-back">
+                        <img src="assets/images/a2-img-1-1.webp" alt="">
+                    </div>
+                </div>
+                <div class="col-xxl-6 col-md-6">
+                    <div class="accordion accordion-flush" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <div class="about-accord">
+                                        <span class="about-number">1</span> <img src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp"
+                                            alt=""> <span>What is social media marketing, and why is it important? </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse "
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body"> Social media marketing involves creating and managing content on social media
+                                    platforms to achieve marketing goals. It’s important because it helps increase brand visibility,
+                                    engage with your target audience, and drive traffic and conversions, ultimately boosting your
+                                    business’s growth.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <div class="about-accord">
+                                        <span class="about-number">2</span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> How long does it take to see results from social media marketing? </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Results can vary depending on your goals and strategy, but you can typically start
+                                    seeing initial engagement and traffic within a few weeks. Long-term success usually requires
+                                    consistent effort over several months, including ongoing content creation and optimization.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <div class="about-accord">
+                                        <span class="about-number">3 </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> Which social media platforms should my business focus on? </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    The best platforms for your business depend on where your target audience is most
+                                    active. Common platforms include Facebook, Instagram, LinkedIn, and Twitter. We analyze
+                                    your audience and industry to recommend the most effective platforms for your brand.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                    <div class="about-accord">
+                                        <span class="about-number">4 </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> How do you measure the success of social media campaigns? </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapsefour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Success is measured through various metrics such as engagement rates, follower
+                                    growth, website traffic, and conversion rates. We provide detailed analytics and reports to track
+                                    these metrics and assess the effectiveness of our campaigns.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                                    <div class="about-accord">
+                                        <span class="about-number">5 </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> Can you help with both organic and paid social media strategies? </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapsefive" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                    Yes, we specialize in both organic strategies, like content creation and community
+                                    management, and paid strategies, including targeted ad campaigns. Combining both approaches
+                                    ensures a comprehensive social media presence and maximizes your results.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php include_once("includes/footer.php") ?>
 </body>
 
 </html>
