@@ -67,8 +67,7 @@
                   <h6><a href="contentmarketing2.php">CONTENT MARKETING</a></h6>
                   <ul>
                    <li><a href="websitecontent">	Website Content </a></li>
-                    <li><a href="writingsocialmedia">	Writing Social Media </a></li>
-                    <li><a href="contentmarketing">	Content Marketing</a></li>
+                    <li><a href="contentmarketing">	Social Media Content Marketing</a></li>
                   </ul>
 
                 </div>

@@ -91,7 +91,7 @@ if(isset($_POST['submit'])) {
           <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4">
             <!-- Content -->
             <h6 class="text-uppercase fw-bold mb-4">
-              <i class="fas fa-gem me-3"></i>Services
+              Services
             </h6>
             <p>
               <a href="digitalmarketingservices" class="text-reset">DIGITAL MARKETING SERVICES</a>
@@ -139,20 +139,12 @@ if(isset($_POST['submit'])) {
             <!-- Links -->
             <h6 class="text-uppercase fw-bold mb-4"> FOLLOW US </h6>
             <p>
-              <a href="#!" class="text-reset">
+              <a href="https://www.facebook.com/profile.php?id=61563666846807" class="text-reset">
                 <i class="bi bi-facebook me-3"></i> Facebook </a>
             </p>
             <p>
-              <a href="#!" class="text-reset">
+              <a href="https://www.instagram.com/blizztech.solutions/" class="text-reset">
                 <i class="bi bi-instagram me-3"></i> Instagram </a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">
-                <i class="bi bi-linkedin me-3"></i> LinkedIn </a>
-            </p>
-            <p>
-              <a href="#!" class="text-reset">
-                <i class="bi bi-twitter-x me-3"></i> X </a>
             </p>
           </div>
           <!-- Grid column -->
@@ -249,10 +241,8 @@ if(isset($_POST['submit'])) {
       centerMode: true, // Center the active slide
       centerPadding: '0px', // Padding around the center slide
       arrows: true, // Enable navigation arrows
-      prevArrow: ' < button type = "button"
-      class = "slick-prev" > Previous < /button>',
-      nextArrow: ' < button type = "button"
-      class = "slick-next" > Next < /button>',
+      prevArrow: ' <button type = "button" class="slick-prev"> Previous </button>',
+      nextArrow: ' <button type = "button" class="slick-next"> Next </button>',
       responsive: [{
         breakpoint: 1024, // For screens smaller than 1024px
         settings: {

@@ -16,6 +16,7 @@ body{
 }
 html {
     overflow-x: hidden;
+    scroll-behavior: smooth !important; 
 }
 /* html {
     scroll-behavior: smooth;
@@ -409,7 +410,7 @@ div#slider-section {
 }
 
 .analytics-container .title-wrap h4 {
-    font-size: 30px;
+    font-size: 20px;
     line-height: 1.33;
     color: white;
     font-weight: 800;
@@ -1479,4 +1480,10 @@ div#contact-us-section form {
 div#question-answer-sec {
     padding: 20px 0px;
     color: white;
+}
+div#question-answer-sec p b {
+    color: #4f8aee;
+    font-size: 25px;
+    line-height: 35px;
+    font-family: 'Epilogue';
 }

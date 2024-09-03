@@ -126,7 +126,7 @@
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse "
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body">WWe handle a range of projects including bespoke web applications, e-commerce
+                                <div class="accordion-body">We handle a range of projects including bespoke web applications, e-commerce
                                     platforms, enterprise solutions, and integrations with existing systems.
                                 </div>
                             </div>
@@ -163,7 +163,7 @@
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    YWe use a variety of technologies including HTML, CSS, JavaScript, and various
+                                    We use a variety of technologies including HTML, CSS, JavaScript, and various
                                     frameworks and platforms depending on the project requirements.
                                 </div>
                             </div>
