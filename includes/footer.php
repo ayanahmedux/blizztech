@@ -29,9 +29,11 @@ if(isset($_POST['submit'])) {
     </body>
 </html>";
 
-    // Send email
+    // Send email and check if successful
     if(mail($to, $subject, $body, $headers)) {
-        $message = "Thank you for contacting us"; // Update the message variable
+        // Redirect to thankyou.php if the email is sent successfully
+        header("Location: thankyou.php");
+        exit(); // Ensure no further code is executed after the redirect
     } else {
         $message = "Failed to send email. Please try again later.";
     }
