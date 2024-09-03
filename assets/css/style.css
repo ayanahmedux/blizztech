@@ -1431,3 +1431,19 @@ ul.dropdown-menu.show a {
     text-decoration: none;
     color: unset;
 }
+.mycustom-buttons ul li input {
+    background: #fff;
+    border: 1px solid #27d5fc;
+    margin: 4px 1px;
+    padding: 8px 20px;
+    border-radius: 30px;
+}
+
+.mycustom-buttons ul li {
+    list-style: none;
+    display: inline-block;
+}
+.mycustom-buttons ul {
+    margin-bottom: 20px;
+    padding: 0;
+}
