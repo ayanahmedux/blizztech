@@ -20,11 +20,10 @@
                   <h6><a href="digitalmarketingservices">digital marketing services</a></h6>
                   <ul class="service-menu">
                     <li><a href="seo">Search Engine Optimization</a></li>
-                    <li><a href="socialmedia">Social Media Management</a></li>
+                    <li><a href="socialmedia">Social Media Marketing</a></li>
                     <li><a href="ppcmarketing">Pay Per Click (PPC) Marketing</a></li>
                     <li><a href="googleandmeta">Google and Meta Ads</a></li>
                     <li><a href="emailmarketing">Email Marketing</a></li>
-                    <li><a href="localseo">Local SEO</a></li>
                   </ul>
 
                 </div>
@@ -56,7 +55,7 @@
 
                 </div>
                 <div class="col second-menu">
-                  <h6>BRANDING & MEDIA STRATEGY </h6>
+                  <h6><a href="brandingandmediastrategy">BRANDING & MEDIA STRATEGY</a> </h6>
                   <ul>
                     <li><a href="brandingstrategy">	Branding Strategy </a></li>
                     <li><a href="logodesign">	Logo Designing </a></li>
@@ -65,7 +64,7 @@
 
                 </div>
                 <div class="col second-menu">
-                  <h6>CONTENT MARKETING</h6>
+                  <h6><a href="contentmarketing2.php">CONTENT MARKETING</a></h6>
                   <ul>
                    <li><a href="websitecontent">	Website Content </a></li>
                     <li><a href="writingsocialmedia">	Writing Social Media </a></li>
@@ -74,7 +73,7 @@
 
                 </div>
                 <div class="col second-menu">
-                  <h6>Video Animation </h6>
+                  <h6><a href="videoanimation">Video Animation </a></h6>
                   <ul>
                    <li><a href="2dcharacteranimation">		2D Character Animation </a></li>
                     <li><a href="2dgraphicsanimation">		2D Graphics Animation </a></li>

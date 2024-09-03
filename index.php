@@ -88,7 +88,7 @@
                             <h4>Digital Marketing </h4>
                         </div>
                         <p>we offer a diverse and comprehensive range of highly customizable and affordable internet marketing services. We ensure the delivery of effective online marketing services, as well as customizing offline marketing solutions.</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="digitalmarketingservices" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -104,7 +104,7 @@
                             <h4>Mobile Application</h4>
                         </div>
                         <p>Unlock innovation with bespoke iOS and Android apps that blend performance with user-centric design. From eCommerce solutions to enterprise-grade applications, our development ensures a seamless mobile experience</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="mobileapplication" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -121,7 +121,7 @@
                             Website Solutions</h4>
                         </div>
                         <p>Transform your digital footprint with custom website design and development, creating sleek, high-performance platforms tailored to your business needs. Our solutions ensure a seamless user experience and robust functionality.</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="websitesolutions" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -135,11 +135,11 @@
                         Graphic 
                         </div>
                         <div class="title-wrap">
-                            <div class="item-icon"><i class="bi bi-check2-circle"></i></div>
-                            <h4>Graphic  </h4>
+                            <div class="item-icon"><i class="bi bi-bar-chart"></i></div>
+                            <h4>Graphic & animation </h4>
                         </div>
                         <p>Revolutionize your brand with our comprehensive graphic services, including innovative UI/UX design, dynamic video editing, and eye-catching social media visuals. Our designs turn concepts into captivating visuals that engage and inspire</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="graphicsandanimation" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -151,11 +151,11 @@
                         Content 
                         </div>
                         <div class="title-wrap">
-                            <div class="item-icon"><i class="bi bi-gear-wide-connected"></i></div>
+                            <div class="item-icon"><i class="bi bi-paragraph"></i></div>
                             <h4>Content Marketing</h4>
                         </div>
                         <p>Transform your audience engagement with innovative content marketing strategies that resonate and convert. Our tailored content solutions boost visibility and drive meaningful interactions.</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="contentmarketing2" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -167,12 +167,12 @@
                         Branding 
                         </div>
                         <div class="title-wrap">
-                            <div class="item-icon"><i class="bi bi-lightbulb-fill"></i></i></div>
+                            <div class="item-icon"><i class="bi bi-dribbble"></i></i></div>
                             <h4>
                             Branding and Media Strategy</h4>
                         </div>
                         <p>Develop a strong brand presence with our comprehensive services, including tailored branding strategies, custom logo design, and detailed brand manual documentation.</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="brandingandmediastrategy" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -186,11 +186,11 @@
                         Video
                         </div>
                         <div class="title-wrap">
-                            <div class="item-icon"><i class="bi bi-check2-circle"></i></div>
+                            <div class="item-icon"><i class="bi bi-camera-fill"></i></div>
                             <h4>Video Animation </h4>
                         </div>
                         <p>Bring your stories to life with stunning video animations that engage and entertain. Our creative animations combine artistry with technology to create compelling visual narratives.</p>
-                        <a href="javascript:;" class="analytics-button quote-button">
+                        <a href="videoanimation" class="analytics-button ">
                             <span>More Info</span>
                             <i class="bi bi-plus"></i>
                         </a>
@@ -210,7 +210,6 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="about-heading">
-                        <h5>OVER 150.000+ CLIENTS</h5>
                         <h2>About Us</h2>
                     </div>
                 </div>
