@@ -32,7 +32,7 @@ if(isset($_POST['submit'])) {
     // Send email and check if successful
     if(mail($to, $subject, $body, $headers)) {
         // Redirect to thankyou.php if the email is sent successfully
-        header("Location: thankyou.php");
+        header("Location: thankyou");
         exit(); // Ensure no further code is executed after the redirect
     } else {
         $message = "Failed to send email. Please try again later.";
