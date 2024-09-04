@@ -75,7 +75,6 @@
                   <h6><a href="videoanimation">Video Animation </a></h6>
                   <ul>
                    <li><a href="2dcharacteranimation">		2D Character Animation </a></li>
-                    <li><a href="2dgraphicsanimation">		2D Graphics Animation </a></li>
                     <li><a href="explainervideoanimation">		Explainer Video Animation</a></li>
                     <li><a href="whiteboardanimation">	Whiteboard Animation</a></li>
                     <li><a href="interactive3danimation">		Interactive 3D Animation</a></li>

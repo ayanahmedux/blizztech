@@ -50,86 +50,54 @@
     </div>
     <div id="question-answer-sec">
         <div class="container">
-            <p>
-                <b>Custom SEO Solutions Tailored to Your Business </b>
-            <p>Every business has its own story, and we believe your SEO strategy should reflect that. Our team
-                works closely with you to develop personalized SEO plans that align with your brand's unique
-                goals and challenges. Whether you’re looking to dominate local searches or expand globally,
-                Blizztech Solutions has the expertise to get you there. </p>
-            </p>
-            <p><b>Keyword Research & Strategy: The Foundation of Success </b></p>
-            <p>Effective SEO starts with thorough keyword research. We identify high-value keywords that
-                your target audience is actively searching for, ensuring that your content not only ranks but
-                converts. Our strategic approach ensures that every piece of content is optimized for maximum
-                impact. </p>
-            <p>
-                <b>
-                    On-Page SEO: Optimizing Every Detail
-                </b>
-            </p>
-            <p>
-                From title tags to meta descriptions and everything in between, our on-page SEO services leave
-                no stone unturned. We optimize each element of your site to enhance user experience and
-                improve search engine visibility. With Blizztech Solutions, your website becomes a beacon for
-                relevant, high-intent traffic.
-            </p>
-            <p><b>
-                    Link Building & Off-Page SEO: Building Authority
-                </b></p>
-            <p>
-                Off-page SEO is critical for establishing your site’s authority and trustworthiness. Our link
-                building strategies focus on acquiring high-quality backlinks from reputable sources, enhancing
-                your site’s credibility and driving up your search engine rankings.
-            </p>
-            <p><b>
-                    Technical SEO: Ensuring a Seamless User Experience
-                </b></p>
-            <p>
-                A well-optimized website is more than just keywords—it’s about providing a flawless user
-                experience. Our technical SEO services address everything from site architecture to mobile
-                responsiveness, ensuring that your website performs at its best across all devices and platforms.
-            </p>
-            <p>
-                <b>Content Marketing & SEO: Crafting Stories That Sell </b>
-            </p>
-            <p>
-                Content is the bridge between your brand and your audience. We create compelling, SEO
-                friendly content that not only ranks but also resonates with your target market. Whether it’s
-                engaging blog posts, informative articles, or persuasive landing pages, Blizztech Solutions
-                ensures your content is a key driver of traffic and conversions.
-            </p>
-            <p><b>
-                    Local SEO: Capturing Nearby Customers
-                </b></p>
-            <p>
-                If your business serves a local market, our local SEO services are designed to put you on the
-                map—literally. We optimize your online presence to ensure you appear in local search results,
-                driving more foot traffic and inquiries from nearby customers.
-            </p>
-            <P><b>
-                    E-commerce SEO: Boosting Online Sales
-                </b></P>
-            <p>For e-commerce businesses, SEO is essential for attracting shoppers and driving sales. Our e
-                commerce SEO services focus on optimizing product pages, improving site navigation, and
-                enhancing user experience to turn visitors into loyal customers. </p>
-            <p><b>Data-Driven SEO Strategies </b></p>
-            <p>
-                At Blizztech Solutions, our SEO strategies are powered by data. We use advanced analytics and
-                reporting tools to track the performance of your SEO campaigns, making informed adjustments
-                to maximize your ROI. Our goal is to deliver not just traffic, but qualified leads that convert.
-            </p>
-            <p><b>SEO Audits: Identifying Opportunities for Growth </b></p>
-            <p>Our comprehensive SEO audits provide an in-depth analysis of your website’s current
-                performance. We identify areas for improvement and provide actionable recommendations to
-                enhance your site’s visibility and effectiveness. With Blizztech Solutions, you gain a clear
-                roadmap to SEO success. </p>
-            <p><b>Why Choose Blizztech Solutions for SEO? </b></p>
-            <p>
-                Choosing the right SEO partner can make all the difference. With Blizztech Solutions, you're not
-                just getting a service provider—you're gaining a partner committed to your success. Our team
-                stays ahead of the curve, utilizing the latest SEO trends and techniques to keep your business at
-                the forefront of your industry.
-            </p>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <p>
+                        <b>Custom SEO Solutions Tailored to Your Business </b>
+                    </p>
+                    <p>Every business has its own story, and we believe your SEO strategy should reflect that. Our team
+                        works closely with you to develop personalized SEO plans that align with your brand's unique
+                        goals and challenges. Whether you’re looking to dominate local searches or expand globally,
+                        Blizztech Solutions has the expertise to get you there. </p>
+
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/seo-custom.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/seo-custom-2.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <p><b>Keyword Research & Strategy: The Foundation of Success </b></p>
+                    <p>Effective SEO starts with thorough keyword research. We identify high-value keywords that
+                        your target audience is actively searching for, ensuring that your content not only ranks but
+                        converts. Our strategic approach ensures that every piece of content is optimized for maximum
+                        impact. </p>
+                </div>
+                <div class="col-lg-6">
+                <p>
+                        <b>
+                            On-Page SEO: Optimizing Every Detail
+                        </b>
+                    </p>
+                    <p>
+                        From title tags to meta descriptions and everything in between, our on-page SEO services leave
+                        no stone unturned. We optimize each element of your site to enhance user experience and
+                        improve search engine visibility. With Blizztech Solutions, your website becomes a beacon for
+                        relevant, high-intent traffic.
+                    </p>
+                </div>
+                <div class="col-lg-6">
+                  
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/seo-custom-3.png" alt="">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div id="about-us">

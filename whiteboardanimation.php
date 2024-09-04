@@ -3,11 +3,11 @@
 <?php include_once("includes/head.php"); ?>
 
 <body>
-<?php include_once("includes/header.php") ?>
-<div id="hero-section">
+    <?php include_once("includes/header.php") ?>
+    <div id="hero-section">
         <div class="heading-hero">
             <h1> white board <br> <span>animation
-                    </span>
+                </span>
         </div>
         <div class="lets-talk-button">
             <a href="javascript:;" class="quote-button">
@@ -30,10 +30,13 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-6 seo-sec-1">
-                    <h2>white board animation</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Necessitatibus ab eaque perspiciatis minima iste, omnis a temporibus, enim neque saepe harum delectus minus, ducimus illum sed quia? Exercitationem dicta aspernatur non deserunt! Adipisci, consectetur eos facere, aperiam eum ipsam vero esse placeat quod ratione consequatur debitis at quaerat sequi commodi quisquam dolorum inventore blanditiis. Nisi tenetur, consequuntur fugiat nesciunt ab amet quia labore hic quae repudiandae voluptatem tempora quos architecto eligendi neque minus maiores sapiente! Eos magni quis at soluta sunt voluptates, dignissimos illo officia sint eum accusamus consequatur nesciunt. Repudiandae asperiores recusandae culpa illo voluptas! Cupiditate dignissimos iure nisi!</p>
+                    <h2>Bring Your Ideas to Life with Engaging
+                        Whiteboard Animation </h2>
+                    <p>Blizztech Solutions specializes in whiteboard animation that visually explains concepts with a
+                        hand-drawn style. Our whiteboard animations are designed to simplify complex ideas, captivate
+                        viewers, and make your message memorable.</p>
                     <div class="me-auto">
-                    <button class="hire-button quote-button">Get A Quote</button>
+                        <button class="hire-button quote-button">Get A Quote</button>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -44,7 +47,161 @@
             </div>
         </div>
     </div>
-<?php include_once("includes/footer.php") ?>
+    <div id="question-answer-sec">
+        <div class="container">
+            <p>
+                <b> Script and Storyboarding </b>
+            <p>Develop a clear and engaging script paired with a detailed storyboard. We work with you to
+                outline the key points and visualize the flow of your whiteboard animation. </p>
+            </p>
+            <p><b>Hand-Drawn Illustrations </b></p>
+            <p>Create custom hand-drawn illustrations that bring your story to life. Our skilled artists produce
+                drawings that are both visually appealing and effective at conveying your message. </p>
+            <p>
+                <b>
+                    Dynamic Animation
+                </b>
+            </p>
+            <p>
+                Animate your whiteboard illustrations to add movement and emphasis. We ensure that each
+                element is animated smoothly to maintain viewer interest and enhance understanding.
+            </p>
+            <p><b>
+                    Professional Voiceover and Sound
+                </b></p>
+            <p>
+                Incorporate high-quality voiceover narration and sound effects. Our voiceover artists and sound
+                engineers ensure that audio elements are clear, engaging, and complement the animation.
+            </p>
+            <p><b>
+                    Brand Integration
+                </b></p>
+            <p>
+                Customize the animation to align with your brand’s identity. We integrate your brand’s colors,
+                logos, and style into the animation to ensure consistency and reinforce brand recognition.
+            </p>
+            <p>
+                <b> Revisions and Timely Delivery </b>
+            </p>
+            <p>
+                Provide the option for revisions to ensure the final animation meets your expectations. We
+                adhere to deadlines to deliver high-quality animations on time.
+            </p>
+            <p>
+                <b>Why Choose Blizztech Solutions for Whiteboard Animation? </b>
+            </p>
+            <p>Blizztech Solutions combines creativity and technical expertise to deliver effective whiteboard
+                animations. Our focus on hand-drawn illustrations, dynamic animation, and professional audio
+                ensures that your content is engaging and informative. </p>
+
+
+        </div>
+    </div>
+    <div id="about-us">
+        <div class="container">
+            <div class="row about-row-2">
+                <div class="col-xxl-6 col-md-6">
+                    <div class="image-wrap-back">
+                        <img src="assets/images/a2-img-1-1.webp" alt="">
+                    </div>
+                </div>
+                <div class="col-xxl-6 col-md-6">
+                    <div class="accordion accordion-flush" id="accordionExample">
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                    <div class="about-accord">
+                                        <span class="about-number">1</span> <img src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp"
+                                            alt=""> <span> What is whiteboard animation?  </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapseOne" class="accordion-collapse collapse "
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">  Whiteboard animation is a video style where hand-drawn illustrations are animated to 
+                                visually explain concepts or tell a story on a whiteboard background. 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                    <div class="about-accord">
+                                        <span class="about-number">2</span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> How long does it take to produce a whiteboard animation?  </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapseTwo" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Production time varies based on complexity, but typically ranges from a few weeks to a 
+                                couple of months. 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                    <div class="about-accord">
+                                        <span class="about-number">3 </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Can you create custom illustrations for my whiteboard animation?</span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapseThree" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Yes, we design custom illustrations tailored to your specific needs and preferences to 
+                                enhance the effectiveness of your animation. 
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefour" aria-expanded="false" aria-controls="collapsefour">
+                                    <div class="about-accord">
+                                        <span class="about-number">4 </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> What file formats will the final animation be delivered in? </span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapsefour" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                The final animation is usually provided in formats like MP4 or MOV, but we can 
+                                deliver in other formats upon request.
+                                </div>
+                            </div>
+                        </div>
+                        <div class="accordion-item">
+                            <h2 class="accordion-header">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
+                                    <div class="about-accord">
+                                        <span class="about-number">5 </span> <img
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span>Do you provide voiceover services for whiteboard animations?</span>
+                                    </div>
+                                </button>
+                            </h2>
+                            <div id="collapsefive" class="accordion-collapse collapse"
+                                data-bs-parent="#accordionExample">
+                                <div class="accordion-body">
+                                Yes, we offer professional voiceover services to accompany your animation, ensuring 
+                                clear narration and effective communication of your message. 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <?php include_once("includes/footer.php") ?>
 </body>
 
 </html>

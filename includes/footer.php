@@ -143,8 +143,15 @@ if(isset($_POST['submit'])) {
                 <i class="bi bi-facebook me-3"></i> Facebook </a>
             </p>
             <p>
-              <a href="https://www.instagram.com/blizztech.solutions/" class="text-reset">
+              <a href="https://www.instagram.com/blizztech.solutions/" target="_blank" class="text-reset">
                 <i class="bi bi-instagram me-3"></i> Instagram </a>
+            </p>
+            <p>
+              <a href="https://www.trustpilot.com/review/blizztechsolutions.com" class="text-reset">
+                   <div class="footer-image">
+                    <img src="./assets/images/trustpilot.png" alt="" />
+                   </div>   
+            </a>
             </p>
           </div>
           <!-- Grid column -->

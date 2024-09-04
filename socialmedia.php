@@ -51,19 +51,35 @@
     </div>
     <div id="question-answer-sec">
         <div class="container">
-            <p>
-                <b>Strategic Social Media Planning </b>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                <p>
+                <b>Strategic Social Media Planning </b></p>
             <p>Effective social media marketing starts with a well-thought-out plan. We collaborate with you to
                 understand your brand's goals, target audience, and industry trends. Our team develops a tailored
                 social media strategy that aligns with your objectives, ensuring every post and campaign
                 resonates with your audience and drives engagement. </p>
-            </p>
-            <p><b>Engaging Content Creation </b></p>
+
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/social-media-custom.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/social-media-custom-2.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                <p><b>Engaging Content Creation </b></p>
             <p>Content is king, and on social media, it’s your way to shine. We create visually compelling and
                 relevant content that captures attention and encourages interaction. From eye-catching graphics
                 and videos to engaging copy and interactive posts, our content is designed to reflect your brand's
                 personality and keep your audience coming back for more. </p>
-            <p>
+                </div>
+                <div class="col-lg-6">
+                <p>
                 <b>
                     Targeted Ad Campaigns
                 </b>
@@ -74,43 +90,14 @@
                 using precise targeting to ensure your ads reach users who are most likely to engage with your
                 brand. Our data-driven approach optimizes ad spend and maximizes ROI.
             </p>
-            <p><b>
-                    Community Management
-                </b></p>
-            <p>
-                Building and maintaining a strong online community is key to long-term success. Our
-                community management services involve actively engaging with your audience, responding to
-                comments and messages, and fostering positive interactions. We help create a vibrant and loyal
-                community around your brand.
-            </p>
-            <p><b>
-                    Social Media Analytics and Reporting
-                </b></p>
-            <p>
-                Measuring success is crucial for continuous improvement. We provide detailed analytics and
-                reports on your social media performance, including engagement rates, follower growth, and
-                campaign effectiveness. Our insights help refine strategies and demonstrate the impact of our
-                efforts on your business goals.
-            </p>
-            <p>
-                <b>Influencer Collaborations </b>
-            </p>
-            <p>
-                Content is the bridge between your brand and your audience. We create compelling, SEO
-                friendly content that not only ranks but also resonates with your target market. Whether it’s
-                engaging blog posts, informative articles, or persuasive landing pages, Blizztech Solutions
-                ensures your content is a key driver of traffic and conversions.
-            </p>
-            <p><b>
-                    Social Media Trends and Innovation
-                </b></p>
-            <p>
-                Staying ahead of trends is essential for social media success. Our team constantly monitors the
-                latest developments and innovations in social media to keep your strategy fresh and relevant. We
-                incorporate new tools and techniques to ensure your brand remains at the forefront of social
-                media marketing.
-            </p>
-
+                </div>
+                <div class="col-lg-6">
+                  
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/social-media-custom-3.png" alt="">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div id="about-us">

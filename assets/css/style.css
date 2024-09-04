@@ -1221,6 +1221,15 @@ div#seo-section .col-lg-6.seo-sec-1 {
         height: 300px;
       
     }
+    .test-content h2 {
+        font-size: 30px !important;
+    }
+    .world-content-wrap h6 {
+        font-size: 15px  !important;
+    }
+    .person-wrap {
+        margin: 0px 0px 45px 0px !important;
+    }
     .employee-wrpper {
         padding: 30px 10px;
     }
@@ -1482,8 +1491,15 @@ div#question-answer-sec {
     color: white;
 }
 div#question-answer-sec p b {
-    color: #4f8aee;
+    color: #27d6fc;
     font-size: 25px;
     line-height: 35px;
     font-family: 'Epilogue';
+}
+.footer-image img {
+    width: 100%;
+}
+.seo-image-wrapper img {
+    width: 100%;
+    animation: updown 2s linear infinite alternate;
 }
