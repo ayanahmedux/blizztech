@@ -48,18 +48,34 @@
     </div>
     <div id="question-answer-sec">
         <div class="container">
-            <p>
-                <b>Strategic PPC Campaign Management </b>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                <p>
+                <b>Strategic PPC Campaign Management </b>  </p>
             <p>we design and manage PPC campaigns tailored to your business objectives. From initial
                 keyword research to ad creation and bid management, our strategies are built to deliver
                 maximum impact and cost efficiency. </p>
-            </p>
-            <p><b>Engaging Content Creation </b></p>
+
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/ppc-custom-2.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/ppc-custom.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                <p><b>Engaging Content Creation </b></p>
             <p>Content is king, and on social media, it’s your way to shine. We create visually compelling and
                 relevant content that captures attention and encourages interaction. From eye-catching graphics
                 and videos to engaging copy and interactive posts, our content is designed to reflect your brand's
                 personality and keep your audience coming back for more. </p>
-            <p>
+                </div>
+                <div class="col-lg-6">
+                <p>
                 <b>
                     Keyword Research and Targeting
                 </b>
@@ -69,44 +85,14 @@
                 high-performing keywords relevant to your industry, ensuring your ads reach users who are
                 actively searching for your products or services.
             </p>
-            <p><b>
-                    Compelling Ad Copy and Design
-                </b></p>
-            <p>
-                Stand out with ads that capture attention and drive clicks. Our team crafts compelling ad copy
-                and eye-catching designs that resonate with your audience and encourage conversions.
-            </p>
-            <p><b>
-                    Advanced Bid Management
-                </b></p>
-            <p>
-                Optimize your ad spend with our advanced bid management techniques. We continuously
-                monitor and adjust bids to ensure your ads achieve the best possible position while staying
-                within budget.
-            </p>
-            <p>
-                <b>Detailed Analytics and Reporting </b>
-            </p>
-            <p>
-                Track the success of your PPC campaigns with detailed analytics. We provide comprehensive
-                reports on key metrics such as click-through rates, conversion rates, and ROI, helping you
-                understand the effectiveness of your campaigns.
-            </p>
-            <p><b>
-                    Continuous Optimization
-                </b></p>
-            <p>
-                PPC is an ongoing process, and we’re committed to continuous improvement. We regularly
-                analyze campaign performance, test new strategies, and refine tactics to ensure optimal results.
-            </p>
-            <p>
-                <b>Why Choose Blizztech Solutions for PPC? </b>
-            </p>
-            <p>
-                Blizztech Solutions offers a blend of expertise and innovation in PPC advertising. Our data
-                driven approach, combined with creative ad solutions, ensures your campaigns are effective and
-                deliver measurable results.
-            </p>
+                </div>
+                <div class="col-lg-6">
+                  
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/ppc-custom-3.png" alt="">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <div id="about-us">

@@ -94,7 +94,7 @@ ensuring your content looks great everywhere.
                 of the competition.
             </p>
             <p>
-                <b>W Performance-Driven Design </b>
+                <b> Performance-Driven Design </b>
             </p>
             <p>Focus on results with performance-driven design. We create content that not only looks great but 
             also drives engagement and achieves your social media marketing goals.  </p>

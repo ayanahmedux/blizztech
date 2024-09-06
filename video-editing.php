@@ -124,8 +124,8 @@
                             </h2>
                             <div id="collapseOne" class="accordion-collapse collapse "
                                 data-bs-parent="#accordionExample">
-                                <div class="accordion-body">We work closely with you to understand your vision and brand, incorporating your 
-                                feedback throughout the editing process to ensure the final product aligns with your expectations. 
+                                <div class="accordion-body">We work closely with you to understand your vision and brand, incorporating your
+                                    feedback throughout the editing process to ensure the final product aligns with your expectations.
                                 </div>
                             </div>
                         </div>
@@ -142,8 +142,8 @@
                             <div id="collapseTwo" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                We edit a variety of video types including promotional videos, social media content, 
-                                corporate presentations, and more, tailoring our approach to fit your specific needs. 
+                                    We edit a variety of video types including promotional videos, social media content,
+                                    corporate presentations, and more, tailoring our approach to fit your specific needs.
                                 </div>
                             </div>
                         </div>
@@ -160,8 +160,8 @@
                             <div id="collapseThree" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                We offer multiple rounds of revisions, incorporating your feedback at each stage to 
-                                ensure the final video meets your standards and requirements. 
+                                    We offer multiple rounds of revisions, incorporating your feedback at each stage to
+                                    ensure the final video meets your standards and requirements.
                                 </div>
                             </div>
                         </div>
@@ -178,8 +178,8 @@
                             <div id="collapsefour" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                    Turnaround time varies based on the complexity and length of the project, but we 
-                                    prioritize efficiency and aim to deliver high-quality videos within agreed-upon deadlines. 
+                                    Turnaround time varies based on the complexity and length of the project, but we
+                                    prioritize efficiency and aim to deliver high-quality videos within agreed-upon deadlines.
                                 </div>
                             </div>
                         </div>
@@ -189,16 +189,16 @@
                                     data-bs-target="#collapsefive" aria-expanded="false" aria-controls="collapsefive">
                                     <div class="about-accord">
                                         <span class="about-number">5 </span> <img
-                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> Can you optimize videos for different platforms and formats?  </span>
+                                            src="https://www.blizztechsolutions.com/assets/images/a2-icon-1.webp" alt=""> <span> Can you optimize videos for different platforms and formats? </span>
                                     </div>
                                 </button>
                             </h2>
                             <div id="collapsefive" class="accordion-collapse collapse"
                                 data-bs-parent="#accordionExample">
                                 <div class="accordion-body">
-                                Yes, we tailor videos to meet the specifications and requirements of various platforms, 
-including social media, websites, and presentations, ensuring optimal performance and 
-engagement. 
+                                    Yes, we tailor videos to meet the specifications and requirements of various platforms,
+                                    including social media, websites, and presentations, ensuring optimal performance and
+                                    engagement.
                                 </div>
                             </div>
                         </div>

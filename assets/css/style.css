@@ -1354,7 +1354,7 @@ div#seo-section .col-lg-6.seo-sec-1 {
     }
 }
 .navbar-nav .nav-link.show {
-    color: rgb(226 224 224) ! IMPORTANT;
+    color: rgb(226 224 224) !important;
 }
 div#quoteModal {
     background: #000000b8;

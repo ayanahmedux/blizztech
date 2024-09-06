@@ -1,5 +1,5 @@
 RewriteEngine On
-RewriteBase /raheels-web-2
+RewriteBase /raheels-web-2/
 
 # Redirect HTTP to HTTPS
 RewriteCond %{HTTPS} !=on

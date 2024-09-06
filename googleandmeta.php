@@ -49,19 +49,35 @@
     </div>
     <div id="question-answer-sec">
         <div class="container">
-            <p>
-                <b>Strategic Google Ads Campaigns </b>
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                <p>
+                <b>Strategic Google Ads Campaigns </b> </p>
             <p>Google Ads provides unmatched visibility on the world's largest search engine. Our team crafts 
 tailored Google Ads campaigns that target relevant keywords, optimize ad placements, and drive 
 quality traffic to your website. We focus on increasing your search visibility and converting 
 clicks into customers. </p>
-            </p>
-            <p><b>Targeted Meta Ads Solutions </b></p>
+
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/googleandmeta-custom.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/ppc-custom.png" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                <p><b>Targeted Meta Ads Solutions </b></p>
             <p>With Meta Ads, reach your audience across Facebook, Instagram, and Messenger. We design 
 visually engaging and highly targeted ads that captivate users and encourage engagement. Our 
 strategies leverage advanced targeting options to ensure your ads are seen by the right people at 
 the right time.  </p>
-            <p>
+                </div>
+                <div class="col-lg-6">
+                <p>
                 <b>
                 Comprehensive Ad Management 
                 </b>
@@ -71,32 +87,17 @@ the right time.  </p>
 optimization and performance monitoring. We manage every aspect of your Google and Meta 
 Ads to ensure maximum impact and ROI. 
             </p>
-            <p><b>
-            Data-Driven Optimization
-                </b></p>
-            <p>
-                Stand out with ads that capture attention and drive clicks. Our team crafts compelling ad copy
-                and eye-catching designs that resonate with your audience and encourage conversions.
-            </p>
-            <p><b>
-                    Advanced Bid Management
-                </b></p>
-            <p>
-            Optimize your campaigns based on real-time data. We continuously analyze performance 
-metrics, make data-driven adjustments, and refine strategies to ensure your Google and Meta 
-Ads deliver the best possible results. 
-            </p>
-            <p>
-                <b>Why Choose Blizztech Solutions for Google and Meta Ads? </b>
-            </p>
-            <p>
-            Blizztech Solutions combines expertise in Google and Meta Ads with a commitment to 
-delivering exceptional results. Our strategic approach, creative solutions, and data-driven 
-optimization ensure your ads achieve maximum reach and impact. 
-            </p>
-           
+                </div>
+                <div class="col-lg-6">
+                  
+                    <div class="seo-image-wrapper">
+                        <img src="./assets/images/ppc-custom-3.png" alt="">
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
+
     <div id="about-us">
         <div class="container">
             <div class="row about-row-2">
